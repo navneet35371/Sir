@@ -1,0 +1,29 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/foundation.css' %}">
+<script type="text/javascript" src="{{ STATIC_URL }}js/foundation/foundation.accordion.js"></script>
+<div class="row" style="margin-top: 20%">
+  <div class="small-3 small-centered columns">
+  	<div class="row collapse">
+  	<form action="/" method="post">
+		{% csrf_token %} 
+		<div class="row collapse">
+        	<div class="small-10 columns">
+          		<input type="text" placeholder="Search..." id="id_query1" maxlength="100" name="query1">
+        	</div>
+        	<div class="small-2 columns">
+          		<a href="#" class="button postfix">Go</a>
+        	</div>
+      	</div>
+	</form>
+	</div>
+  </div>
+</div>
+</body>
+</html>
+
+ 

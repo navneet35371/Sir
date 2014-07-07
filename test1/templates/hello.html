@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+{% load static %}
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="{% static 'js/modernizr.js' %}"></script>
+<link rel="stylesheet" href="{% static 'css/foundation.css' %}">
+</head>
+
+<body>
+
+
+{% include 'base.html' %}
+{% include 'goog.html' %}
+{% include 'result.html'%}
+{{name}}
+
+
+  <script src="{% static 'js/vendor/jquery.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.accordion.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.abide.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.alert.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.clearing.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.dropdown.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.interchange.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.joyride.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.magellan.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.offcanvas.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.orbit.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.reveal.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.tab.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.tooltip.js' %}"></script>
+  <script src="{% static 'js/foundation/foundation.topbar.js' %}"></script>
+  
+
+  <script>
+    $(document).foundation();
+  </script>
+</body>
+
+
+
+</html>

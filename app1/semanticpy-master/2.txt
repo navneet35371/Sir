@@ -1,0 +1,9508 @@
+Algorithm Problem Set Analysis - TopCoder Wiki 
+    
+  
+  
+ 
+
+        
+   
+ 
+
+  
+   
+ 
+
+   
+
+  
+  
+  
+  
+ 
+
+      
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+   
+   
+   
+   
+   
+   
+   
+
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+
+ 
+
+
+  
+
+
+ 
+ 
+  
+   
+  
+ 
+ 
+
+ 
+Member Count: 592,251 - 
+
+
+November 26, 2013
+
+ [Get Time] 
+ 
+
+ 
+  
+  
+     Login 
+   
+  
+  
+ 
+
+
+ 
+ 
+  
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ Competitions 
+ 
+ Overview 
+ 
+ Reliability 
+ Ratings 
+ Badges 
+ How to Get Paid 
+ Administrative Overview 
+ 
+ Copilot Opportunities 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ Documentation 
+ Tutorial 
+ 
+ Active Contests 
+ Past Contests 
+ Copilot Pool 
+ 
+ Design 
+ 
+ Studio 
+ Conceptualization 
+ 
+ Overview 
+ Track Information 
+ 
+ Tutorial 
+ Documentation 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Specification 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Architecture 
+ 
+ Overview 
+ Track Information 
+ 
+ Module Architecture Tutorial 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Component Design 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ Documentation 
+ Recent Color Changes 
+ Data Feeds 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ 
+ Development 
+ 
+ Component Development 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ Documentation 
+ Recent Color Changes 
+ Data Feeds 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Assembly 
+ 
+ Overview 
+ Track Information 
+ 
+ Tutorials 
+ Documentation 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Test Suites 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ Tutorial 
+ Documentation 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Reporting 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ Tutorial 
+ Documentation 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ 
+ UI Development 
+ 
+ UI Prototype 
+ 
+ Overview 
+ Track Information 
+ 
+ UI Prototype Tutorial 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ RIA Build 
+ 
+ Overview 
+ Track Information 
+ 
+ RIA Build Tutorial 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Content Creation 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ 
+ QA and Maintenance 
+ 
+ Test Scenarios 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ Tutorial 
+ Documentation 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Bug Race 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ 
+ Active Contests 
+ Review Opportunities 
+ 
+ Bug Hunt 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ 
+ CloudSpokes 
+ 
+ Overview 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ 
+ Algorithm 
+ 
+ Single Round Matches (SRM) 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ FAQs 
+ Rating System 
+ Write Problems 
+ 
+ Statistics 
+ 
+ Match Archive 
+ Match Overviews 
+ Match Winners 
+ Match Results 
+ Match Editorials 
+ Problem Archive 
+ Recent Color Changes 
+ Data Feeds 
+ 
+ Launch Arena 
+ 
+ Marathon Match 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ Rating System 
+ 
+ Statistics 
+ 
+ Match Archive 
+ Match Overview 
+ Match Winners 
+ Match Editorials 
+ Data Feeds 
+ 
+ Active Contests 
+ Practice 
+ Queue Status 
+ 
+ 
+ High School 
+ 
+ Overview 
+ Statistics 
+ 
+ Match Overview 
+ Match Results (Team) 
+ Match Results (Indiv.) 
+ Match Editorials 
+ Recent Color Changes 
+ Data Feeds 
+ 
+ Spotlight Sessions 
+ Launch Arena 
+ 
+ The Digital Run 
+ Submit &amp; Review 
+ 
+ TopCoder Networks 
+ 
+ Alcatel Lucent 
+ AMD OpenCL 
+ DARPA CS-STEM 
+ Life Technologies 
+ NASA Tournament Lab 
+ PayPalX 
+ 
+ Events 
+ 
+ Event Calendar 
+ Tournaments 
+ 
+ TopCoder 
+ Powered by TopCoder 
+ Charity 
+ 
+ 
+ Statistics 
+ 
+ The Tops 
+ 
+ Top Ranked 
+ 
+ Algorithm 
+ High School 
+ Marathon Match 
+ Conceptualization 
+ Specification 
+ Architecture 
+ Design 
+ Development 
+ Assembly 
+ Test Suites 
+ 
+ Record Book 
+ 
+ Algorithm 
+ Component 
+ Marathon Match 
+ 
+ Coder of the Month 
+ 
+ Algorithm 
+ Design 
+ Development 
+ 
+ 
+ 
+ Tutorials 
+ 
+ Overview 
+ Algorithm Tutorials 
+ Software Tutorials 
+ Marathon Tutorials 
+ Wiki 
+ 
+ Forums 
+ Surveys 
+ My TopCoder 
+ Help Center 
+ About TopCoder 
+ 
+ Overview 
+ Why Join TopCoder? 
+ Working at TopCoder 
+ Leadership 
+ Press Room 
+ 
+
+  
+  
+   
+
+  
+  
+  
+  
+  
+ 
+
+ 
+ Member Search: 
+ 
+ 
+ 
+ Go 
+ Advanced Search 
+ 
+ 
+ 
+ 
+
+
+  
+   
+  
+
+
+   
+   
+
+
+ 
+
+  
+
+  
+
+     
+    
+        
+ 
+              Dashboard 
+          &gt;       TopCoder Competitions 
+              
+     &gt;
+      
+       ... 
+      
+      
+         Home 
+     &gt;      Other Competitions 
+   
+     
+                        &gt;       Algorithm Overview 
+          &gt;       Algorithm Problem Set Analysis 
+    
+  
+    
+
+    
+      
+   
+  
+   
+   
+   
+  
+    
+   
+  
+     
+    
+    
+     
+                                     
+          TopCoder Competitions  
+      
+      
+             
+  
+    
+       
+         
+
+              
+                     
+      
+     
+     
+      
+       
+          Algorithm Problem Set Analysis
+        
+      
+     
+    
+    
+   
+    
+
+  
+
+
+
+
+ 
+ 
+
+
+ 
+ 
+  
+ 
+ 
+ 
+
+  
+   
+    
+     
+						
+  
+  
+  
+      Browse Space 
+		 				 
+
+				 
+											 V iew 
+											 A ttachments (0) 
+											 I nfo 
+									 
+    
+   
+  
+  
+   
+
+       
+     
+      
+
+     
+     
+     
+             
+        
+         
+          
+           
+              Added by    mike
+, last edited by    vexorian
+ on Nov 24, 2013
+      ( view change )
+    
+           
+ 
+
+
+
+
+
+
+
+ 
+ 
+  Labels: 
+  
+   
+     (None)
+     
+    
+   
+   
+
+    
+
+   
+    
+     
+      Add Labels 
+     
+      
+    
+    
+     Enter labels to add to this page: 
+   
+   
+   
+   
+    Tip: Looking for a label? Just start typing.
+   
+   
+    
+     
+    
+   
+   
+  
+ 
+ 
+           
+          
+          
+                    
+         
+        
+
+              
+        
+           
+
+ 
+ 
+ 
+ 
+
+ 
+Editorials for all rounds starting from SRM 467 can be edited by any TopCoder member. It can be language correction, wording improvement or additional explanation in some parts, your additional comments, description of alternative solutions, etc. If you want to improve the wording of editorial writer or correct some language error, please feel free to put your change over the original text. And if you wish to add a comment or describe another approach, there's a section for this at the bottom of each problem.
+ 
+
+ 
+Before editing, please be sure to check the following guidelines .
+ 
+
+ 
+If you see that you occasionally broken the page formatting, you can use page history page (like this ) to restore the latest proper version. If you don't see how to do that, please contact admins (contest@topcoder.com).
+ 
+
+ 
+  Match Editorial Archive - 2013 
+
+   
+
+  
+
+ 
+ November 
+  
+
+ 
+  11.20.13 
+  SRM 597 - Problem Set & Analysis 
+ 
+
+
+
+ 
+  11.13.13 
+  TCO 2013 Finals - Problem Set & Analysis 
+ 
+
+
+ 
+  11.12.13 
+  TCO 2013 Wildcard - Problem Set & Analysis 
+ 
+ 
+  11.12.13 
+  TCO 2013 Semifinal 2 - Problem Set & Analysis 
+ 
+ 
+  11.12.13 
+  TCO 2013 Semifinal 1 - Problem Set & Analysis 
+ 
+
+
+ 
+  11.01.13 
+  SRM 596 - Problem Set & Analysis 
+ 
+
+
+
+ 
+ October 
+  
+
+ 
+  10.24.13 
+  SRM 595 - Problem Set & Analysis 
+ 
+
+
+ 
+  10.15.13 
+  SRM 594 - Problem Set & Analysis 
+ 
+
+
+ 
+  10.05.13 
+  SRM 593 - Problem Set & Analysis 
+ 
+
+
+
+ 
+ September 
+  
+
+ 
+  09.27.13 
+  SRM 592 - Problem Set & Analysis 
+ 
+
+
+
+ 
+  09.16.13 
+  SRM 591 - Problem Set & Analysis 
+ 
+
+
+ 
+  09.07.13 
+  SRM 590 - Problem Set & Analysis 
+ 
+
+
+ 
+ August 
+  
+
+ 
+  08.27.13 
+  SRM 589 - Problem Set & Analysis 
+ 
+
+
+ 
+  08.12.13 
+  SRM 588 - Problem Set & Analysis 
+ 
+
+
+ 
+  08.01.13 
+  SRM 587 - Problem Set & Analysis 
+ 
+
+ 
+ July 
+  
+
+ 
+  07.28.13 
+  SRM 586 - Problem Set & Analysis 
+ 
+
+
+ 
+  07.19.13 
+  SRM 585 - Problem Set & Analysis 
+ 
+
+
+ 
+  07.10.13 
+  SRM 584 - Problem Set & Analysis 
+ 
+
+
+ 
+ June 
+  
+
+ 
+  06.22.13 
+  TCO 2013 Round 3B - Problem Set & Analysis 
+ 
+
+ 
+  06.18.13 
+  SRM 583 - Problem Set & Analysis 
+ 
+
+
+ 
+  06.08.13 
+  TCO 2013 Round 3A - Problem Set & Analysis 
+ 
+
+
+ 
+  06.03.13 
+  SRM 581 - Problem Set & Analysis 
+ 
+
+
+ 
+ May 
+  
+
+
+
+ 
+  05.25.13 
+  SRM 580 - Problem Set & Analysis 
+ 
+
+ 
+  05.18.13 
+  SRM 579 - Problem Set & Analysis 
+ 
+
+ 
+  05.11.13 
+  TCO 2013 Round 2C - Problem Set & Analysis 
+ 
+
+ 
+  05.02.13 
+  SRM 578 - Problem Set & Analysis 
+ 
+
+ 
+ April 
+  
+
+ 
+  04.26.13 
+  SRM 577 - Problem Set & Analysis 
+ 
+
+ 
+  04.20.13 
+  TCO 2013 Round 2B - Problem Set & Analysis 
+ 
+
+ 
+  04.11.13 
+  SRM 576 - Problem Set & Analysis 
+ 
+
+ 
+  04.06.13 
+  SRM 575 - Problem Set & Analysis 
+ 
+
+ 
+ March 
+  
+
+ 
+  03.30.13 
+  TCO 2013 Round 2A - Problem Set & Analysis 
+ 
+
+ 
+  03.25.13 
+  SRM 574 - Problem Set & Analysis 
+ 
+
+ 
+  03.14.13 
+  SRM 573 - Problem Set & Analysis 
+ 
+
+ 
+  03.09.13 
+  TCO 2013 Round 1C - Problem Set & Analysis 
+ 
+
+ 
+  03.06.13 
+  SRM 572 - Problem Set & Analysis 
+ 
+
+ 
+  03.02.13 
+  TCO 2013 Round 1B - Problem Set & Analysis 
+ 
+
+ 
+ February 
+  
+
+ 
+  02.23.13 
+  TCO 2013 Round 1A - Problem Set & Analysis 
+ 
+
+ 
+  02.19.13 
+  SRM 571 - Problem Set & Analysis 
+ 
+
+ 
+  02.13.13 
+  SRM 570 - Problem Set & Analysis 
+ 
+
+ 
+  02.06.13 
+  SRM 569 - Problem Set & Analysis 
+ 
+
+ 
+ January 
+  
+
+ 
+  01.29.13 
+  SRM 568 - Problem Set & Analysis 
+ 
+
+ 
+  01.21.13 
+  SRM 567 - Problem Set & Analysis 
+ 
+
+ 
+  01.12.13 
+  SRM 566 - Problem Set & Analysis 
+ 
+
+   
+
+  Match Editorial Archive - 2012 
+
+   
+
+  
+
+
+ 
+ December 
+  
+
+ 
+  12.20.12 
+  SRM 565 - Problem Set & Analysis 
+ 
+
+ 
+  12.12.12 
+  SRM 564 - Problem Set & Analysis 
+ 
+
+ 
+  12.08.12 
+  SRM 563 - Problem Set & Analysis 
+ 
+
+ 
+ November 
+  
+
+ 
+  11.30.12 
+  SRM 562 - Problem Set & Analysis 
+ 
+
+ 
+  11.20.12 
+  SRM 561 - Problem Set & Analysis 
+ 
+
+
+ 
+  11.10.12 
+  SRM 560 - Problem Set & Analysis 
+ 
+
+  
+ October 
+  
+
+ 
+  10.30.12 
+  SRM 559 - Problem Set & Analysis 
+ 
+
+ 
+  10.19.12 
+  SRM 558 - Problem Set & Analysis 
+ 
+
+ 
+  10.10.12 
+  SRM 557 - Problem Set & Analysis 
+ 
+
+  
+ September 
+  
+
+ 
+  9.16.12 
+  SRM 556 - Problem Set & Analysis 
+ 
+
+ 
+  9.07.12 
+  SRM 555 - Problem Set & Analysis 
+ 
+
+ 
+  9.01.12 
+  SRM 554 - Problem Set & Analysis 
+ 
+
+  
+ August 
+  
+
+ 
+  8.22.12 
+  SRM 553 - Problem Set & Analysis 
+ 
+
+ 
+  8.16.12 
+  SRM 552 - Problem Set & Analysis 
+ 
+
+ 
+  8.04.12 
+  SRM 551 - Problem Set & Analysis 
+ 
+
+  
+ July 
+  
+
+ 
+  7.21.12 
+  SRM 550 - Problem Set & Analysis 
+ 
+
+ 
+  7.10.12 
+  SRM 549 - Problem Set & Analysis 
+ 
+
+ 
+  7.07.12 
+  TCO 2012 Round 3B - Problem Set & Analysis 
+ 
+
+ 
+  7.02.12 
+  SRM 548 - Problem Set & Analysis 
+ 
+
+  
+ June 
+  
+
+ 
+  6.25.12 
+  SRM 547 - Problem Set & Analysis 
+ 
+
+ 
+  6.23.12 
+  TCO 2012 Round 3A - Problem Set & Analysis 
+ 
+
+ 
+  6.16.12 
+  SRM 546 - Problem Set & Analysis 
+ 
+
+ 
+  6.07.12 
+  SRM 545 - Problem Set & Analysis 
+ 
+
+ 
+  6.02.12 
+  TCO 2012 Round 2C - Problem Set & Analysis 
+ 
+
+  
+ May 
+  
+
+ 
+  5.29.12 
+  SRM 544 - Problem Set & Analysis 
+ 
+
+ 
+  5.19.12 
+  SRM 543 - Problem Set & Analysis 
+ 
+
+ 
+  5.12.12 
+  TCO 2012 Round 2B - Problem Set & Analysis 
+ 
+
+ 
+  5.08.12 
+  SRM 542 - Problem Set & Analysis 
+ 
+
+  
+ April 
+  
+
+ 
+  4.23.12 
+  SRM 541 - Problem Set & Analysis 
+ 
+
+ 
+  4.21.12 
+  TCO 2012 Round 2A - Problem Set & Analysis 
+ 
+
+ 
+  4.14.12 
+  TCO 2012 Round 1C - Problem Set & Analysis 
+ 
+
+ 
+  4.11.12 
+  SRM 540 - Problem Set & Analysis 
+ 
+
+ 
+  4.07.12 
+  TCO 2012 Round 1B - Problem Set & Analysis 
+ 
+
+ 
+  4.04.12 
+  SRM 539 - Problem Set & Analysis 
+ 
+
+  
+ March 
+  
+
+ 
+  3.31.12 
+  TCO 2012 Round 1A - Problem Set & Analysis 
+ 
+
+ 
+  3.20.12 
+  SRM 538 - Problem Set & Analysis 
+ 
+
+ 
+  3.17.12 
+  SRM 537 - Problem Set & Analysis 
+ 
+
+ 
+  3.07.12 
+  SRM 536 - Problem Set & Analysis 
+ 
+
+ 
+  3.03.12 
+  SRM 535 - Problem Set & Analysis 
+ 
+
+  
+ February 
+  
+
+ 
+  2.23.12 
+  SRM 534 - Problem Set & Analysis 
+ 
+
+ 
+  2.18.12 
+  SRM 533 - Problem Set & Analysis 
+ 
+
+ 
+  2.09.12 
+  SRM 532 - Problem Set & Analysis 
+ 
+
+  
+ January 
+  
+
+ 
+  1.31.12 
+  SRM 531 - Problem Set & Analysis 
+ 
+
+ 
+  1.19.12 
+  SRM 530 - Problem Set & Analysis 
+ 
+
+ 
+  1.14.12 
+  SRM 529 - Problem Set & Analysis 
+ 
+
+   
+
+  Match Editorial Archive - 2011 
+
+   
+
+  
+ December 
+  
+
+ 
+  12.28.11 
+  SRM 528 - Problem Set & Analysis 
+ 
+
+ 
+  12.23.11 
+  SRM 526.5 - Problem Set & Analysis 
+ 
+
+ 
+  12.17.11 
+  SRM 527 - Problem Set & Analysis 
+ 
+
+ 
+  12.06.11 
+  SRM 526 - Problem Set & Analysis 
+ 
+
+  
+ November 
+  
+
+ 
+  11.29.11 
+  SRM 525 - Problem Set & Analysis 
+ 
+
+ 
+  11.17.11 
+  SRM 524 - Problem Set & Analysis 
+ 
+
+ 
+  11.12.11 
+  SRM 523 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ October 
+  
+
+ 
+  10.25.11 
+  SRM 522 - Problem Set & Analysis 
+ 
+
+ 
+  10.13.11 
+  SRM 521 - Problem Set & Analysis 
+ 
+
+ 
+  10.04.11 
+  SRM 520 - Problem Set & Analysis 
+ 
+
+  
+
+  
+ September 
+  
+
+ 
+  09.19.11 
+  SRM 519 - Problem Set & Analysis 
+ 
+
+ 
+  09.14.11 
+  SRM 518 - Problem Set & Analysis 
+ 
+
+ 
+  09.10.11 
+  SRM 517 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ August 
+  
+
+ 
+  08.30.11 
+  SRM 516 - Problem Set & Analysis 
+ 
+
+ 
+  08.20.11 
+  SRM 515 - Problem Set & Analysis 
+ 
+
+ 
+  08.09.11 
+  SRM 514 - Problem Set & Analysis 
+ 
+
+ 
+  08.06.11 
+  TCO'11 Online Round 5 - Problem Set & Analysis 
+ 
+
+
+   
+
+  
+ July 
+  
+
+ 
+  07.26.11 
+  SRM 513 - Problem Set & Analysis 
+ 
+
+ 
+  07.23.11 
+  TCO'11 Online Round 4 - Problem Set & Analysis 
+ 
+
+ 
+  07.13.11 
+  SRM 512 - Problem Set & Analysis 
+ 
+
+ 
+  07.09.11 
+  TCO'11 Online Round 3 - Problem Set & Analysis 
+ 
+
+ 
+  07.02.11 
+  SRM 511 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ June 
+  
+
+ 
+  06.25.11 
+  TCO'11 Online Round 2 - Problem Set & Analysis 
+ 
+
+ 
+  06.21.11 
+  SRM 510 - Problem Set & Analysis 
+ 
+
+ 
+  06.18.11 
+  TCO'11 Online Round 1 - Problem Set & Analysis 
+ 
+
+ 
+  06.08.11 
+  SRM 509 - Problem Set & Analysis 
+ 
+
+ 
+  06.02.11 
+  SRM 508 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ May 
+  
+
+ 
+  05.28.11 
+  SRM 507 - Problem Set & Analysis 
+ 
+
+ 
+  05.24.11 
+  TCO'11 Qualification Round 3 - Problem Set & Analysis 
+ 
+
+ 
+  05.19.11 
+  TCO'11 Qualification Round 2 - Problem Set & Analysis 
+ 
+
+ 
+  05.17.11 
+  SRM 504.5 - Problem Set & Analysis 
+ 
+
+ 
+  05.14.11 
+  TCO'11 Qualification Round 1 - Problem Set & Analysis 
+ 
+
+ 
+  05.11.11 
+  SRM 506 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ April 
+  
+
+ 
+  04.26.11 
+  SRM 504 - Problem Set & Analysis 
+ 
+
+ 
+  04.16.11 
+  Member SRM 503 - Problem Set & Analysis 
+ 
+
+ 
+  04.07.11 
+  SRM 502 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ March 
+  
+
+ 
+  03.19.11 
+  SRM 500 - Problem Set & Analysis 
+ 
+
+ 
+  03.08.11 
+  SRM 499 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ February 
+  
+
+ 
+  02.26.11 
+  SRM 498 - Problem Set & Analysis 
+ 
+ 
+  02.10.11 
+  SRM 497 - Problem Set & Analysis 
+ 
+ 
+  02.01.11 
+  SRM 496 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ January 
+  
+
+ 
+  01.27.11 
+  SRM 495 - Problem Set & Analysis 
+ 
+
+ 
+  01.12.11 
+  SRM 493 - Problem Set & Analysis 
+ 
+
+   
+
+  Match Editorial Archive - 2010 
+
+   
+
+  
+ December 
+  
+
+ 
+  12.28.10 
+  SRM 492 - Problem Set & Analysis 
+ 
+
+ 
+  12.08.10 
+  SRM 490 - Problem Set & Analysis 
+ 
+
+ 
+   
+
+  
+ November 
+  
+
+ 
+  11.18.10 
+  SRM 488 - Problem Set & Analysis 
+ 
+
+ 
+  11.13.10 
+  SRM 487 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ October 
+  
+
+ 
+  10.27.10 
+  SRM 486 - Problem Set & Analysis 
+ 
+
+ 
+  10.14.10 
+  TCO'10 Championship Round - Problem Set & Analysis 
+ 
+
+ 
+  10.13.10 
+  TCO'10 Wildcard Round - Problem Set & Analysis 
+ 
+
+ 
+  10.13.10 
+  TCO'10 Semifinal 2 - Problem Set & Analysis 
+ 
+
+ 
+  10.13.10 
+  TCO'10 Semifinal 1 - Problem Set & Analysis 
+ 
+
+ 
+  10.05.10 
+  SRM 484 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ September 
+  
+
+ 
+  09.25.10 
+  SRM 483 - Problem Set & Analysis 
+ 
+
+ 
+  09.09.10 
+  SRM 481 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ August 
+  
+
+ 
+  08.26.10 
+  SRM 480 - Problem Set & Analysis 
+ 
+
+ 
+  08.14.10 
+  SRM 479 - Problem Set & Analysis 
+ 
+
+ 
+  08.07.10 
+  TCO'10 Online Round 5 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ July 
+  
+
+ 
+  07.28.10 
+  SRM 477 - Problem Set & Analysis 
+ 
+
+ 
+  07.24.10 
+  TCO'10 Online Round 4 - Problem Set & Analysis 
+ 
+
+ 
+  07.17.10 
+  SRM 476 - Problem Set & Analysis 
+ 
+
+ 
+  07.10.10 
+  TCO'10 Online Round 3 - Problem Set & Analysis 
+ 
+
+ 
+  07.06.10 
+  SRM 475 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ June 
+  
+
+ 
+  06.26.10 
+  TCO'10 Online Round 2 - Problem Set & Analysis 
+ 
+
+ 
+  06.19.10 
+  TCO'10 Online Round 1 - Problem Set & Analysis 
+ 
+
+ 
+  06.17.10 
+  SRM 473 - Problem Set & Analysis 
+ 
+
+ 
+  06.05.10 
+  SRM 472 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ May 
+  
+
+ 
+  05.24.10 
+  TCO'10 Qualification Round 3 - Problem Set & Analysis 
+ 
+
+ 
+  05.20.10 
+  SRM 470 - Problem Set & Analysis 
+ 
+
+ 
+  05.12.10 
+  TCO'10 Qualification Round 2 - Problem Set & Analysis 
+ 
+
+ 
+  05.04.10 
+  SRM 469 - Problem Set & Analysis 
+ 
+
+ 
+  05.02.10 
+  TCO'10 Qualification Round 1 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ April 
+  
+
+ 
+  04.20.10 
+  Member SRM 468 - Problem Set & Analysis 
+ 
+
+ 
+  04.15.10 
+  SRM 467 - Problem Set & Analysis 
+ 
+
+ 
+  04.03.10 
+  SRM 466 - Problem Set & Analysis 
+ 
+
+
+   
+
+  
+ March 
+  
+
+ 
+  03.25.10 
+  Member SRM 465 - Problem Set & Analysis 
+ 
+
+ 
+  03.16.10 
+  SRM 464 - Problem Set & Analysis 
+ 
+
+ 
+  03.02.10 
+  SRM 463 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ February 
+  
+
+ 
+  02.17.10 
+  SRM 462 - Problem Set & Analysis 
+ 
+
+ 
+  02.13.10 
+  Member SRM 461 - Problem Set & Analysis 
+ 
+
+ 
+  02.06.10 
+  SRM 460 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ January 
+  
+
+ 
+  01.19.10 
+  SRM 459 - Problem Set & Analysis 
+ 
+
+ 
+  01.14.10 
+  Member SRM 458 - Problem Set & Analysis 
+ 
+
+ 
+  01.04.10 
+  SRM 457 - Problem Set & Analysis 
+ 
+
+   
+
+  Match Editorial Archive - 2009 
+
+   
+
+ 
+  
+ December 
+ 
+ 
+
+ 
+  12.22.09 
+
+  SRM 456 - Problem Set & Analysis 
+ 
+
+ 
+  12.17.09 
+
+  Member SRM 455 - Problem Set & Analysis (incomplete) 
+ 
+
+
+ 
+  12.05.09 
+
+  SRM 454 - Problem Set & Analysis 
+ 
+
+   
+
+ 
+  
+ November 
+ 
+ 
+
+ 
+  11.25.09 
+
+  SRM 453.5 - Problem Set & Analysis 
+ 
+
+ 
+  11.17.09 
+
+  SRM 453 - Problem Set & Analysis 
+ 
+
+ 
+  11.05.09 
+
+  SRM 452 - Problem Set & Analysis 
+ 
+
+   
+
+ 
+  
+ October 
+ 
+ 
+
+ 
+  10.20.09 
+
+  SRM 451 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  10.17.09 
+
+  SRM 450 - Problem Set & Analysis (incomplete) 
+ 
+
+   
+
+ 
+  
+ September 
+ 
+ 
+
+ 
+  09.23.09 
+
+  SRM 449 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  09.10.09 
+
+  SRM 448 - Problem Set & Analysis (incomplete) 
+ 
+
+   
+
+ 
+  
+ August 
+ 
+ 
+
+ 
+  08.25.09 
+
+  SRM 447 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  08.08.09 
+
+  SRM 446 - Problem Set & Analysis (incomplete) 
+ 
+
+   
+
+ 
+  
+ July 
+ 
+ 
+
+ 
+  07.23.09 
+
+  SRM 445 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  07.08.09 
+
+  SRM 444 - Problem Set & Analysis (incomplete) 
+ 
+
+   
+
+ 
+  
+ June 
+ 
+ 
+
+ 
+  06.23.09 
+
+  SRM 443 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  06.13.09 
+
+  SRM 442 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  06.04.09 
+
+  TCO'09 Championship Round - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  06.03.09 
+
+  TCO'09 Semifinal Round - Problem Set & Analysis (incomplete) 
+ 
+
+   
+
+ 
+  
+ May 
+ 
+ 
+
+ 
+  05.27.09 
+
+  SRM 441 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  05.12.09 
+
+  SRM 440 - Problem Set & Analysis (incomplete) 
+ 
+
+   
+
+ 
+  
+ April 
+ 
+ 
+
+ 
+  04.30.09 
+
+  SRM 439 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  04.19.09 
+
+  SRM 438 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  04.04.09 
+
+  TCO'09 Elimination Round 5 - Problem Set & Analysis (incomplete) 
+ 
+
+   
+
+ 
+  
+ March 
+ 
+ 
+
+ 
+  03.28.09 
+
+  TCO'09 Elimination Round 4 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  03.24.09 
+
+  SRM 437 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  03.21.09 
+
+  TCO'09 Elimination Round 3 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  03.14.09 
+
+  TCO'09 Elimination Round 2 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  03.11.09 
+
+  SRM 436 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  03.07.09 
+
+  TCO'09 Elimination Round 1 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  03.04.09 
+
+  TCO'09 Qualification Round 3 - Problem Set & Analysis (incomplete) 
+ 
+
+  
+
+ 
+  
+ February 
+ 
+ 
+
+
+ 
+  02.28.09 
+
+  TCO'09 Qualification Round 2 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  02.24.09 
+
+  TCO'09 Qualification Round 1 - Problem Set & Analysis 
+ 
+
+ 
+  02.12.09 
+
+  SRM 435 - Problem Set & Analysis 
+ 
+
+ 
+  02.07.09 
+
+  SRM 434 - Problem Set & Analysis 
+ 
+
+  
+
+ 
+  
+ January 
+ 
+ 
+ 
+  
+  01.21.09 
+
+  SRM 433 - Problem Set & Analysis 
+ 
+ 
+  01.06.09 
+  SRM 432 - Problem Set & Analysis 
+
+ 
+   
+
+  Match Editorial Archive - 2008 
+
+   
+
+  
+ December 
+  
+ 
+  12.23.08 
+  SRM 431 - Problem Set & Analysis 
+
+ 
+ 
+  12.20.08 
+  SRM 430 - Problem Set & Analysis 
+ 
+ 
+
+  12.11.08 
+  SRM 429 - Problem Set & Analysis 
+ 
+ 
+  12.02.08 
+ SRM 428 - Problem Set & Analysis 
+
+ 
+ 
+   
+  
+
+ November 
+  
+ 
+  11.27.08 
+
+ SRM 427 - Problem Set & Analysis 
+ 
+ 
+  11.22.08 
+ SRM 426 - Problem Set & Analysis 
+
+ 
+ 
+  11.12.08 
+  SRM 425 - Problem Set & Analysis 
+ 
+  11.06.08 SRM 424 - Problem Set & Analysis 
+
+   
+
+   
+  
+
+ October 
+  
+  10.28.08 SRM 423 - Problem Set & Analysis 
+
+  10.18.08 SRM 422 - Problem Set & Analysis 
+  10.08.08 SRM 421 - Problem Set & Analysis 
+  10.02.08 SRM 420 - Problem Set & Analysis 
+
+   
+
+   
+  
+ September 
+  
+  09.24.08 SRM 419 - Problem Set & Analysis 
+
+  09.20.08 SRM 418 - Problem Set & Analysis 
+  09.11.08 SRM 417 - Problem Set & Analysis 
+  09.04.08 SRM 416 - Problem Set & Analysis 
+
+   
+
+   
+  
+ August 
+  
+  08.26.08 SRM 415 - Problem Set & Analysis 
+
+  08.16.08 SRM 414 - Problem Set & Analysis 
+  08.06.08 SRM 413 - Problem Set & Analysis 
+   
+
+   
+
+  
+ July 
+  
+  07.31.08 SRM 412 - Problem Set & Analysis 
+  07.23.08 SRM 411 - Problem Set & Analysis 
+
+  07.19.08 SRM 410 - Problem Set & Analysis 
+  07.10.08 SRM 409 - Problem Set & Analysis 
+  07.01.08 SRM 408 - Problem Set & Analysis 
+
+   
+
+   
+  
+ June 
+  
+  06.26.08 SRM 407 - Problem Set & Analysis 
+
+  06.17.08 SRM 406 - Problem Set & Analysis 
+  06.14.08 SRM 405 - Problem Set & Analysis 
+  06.05.08 SRM 404 - Problem Set & Analysis 
+
+   
+
+   
+  
+ May 
+  
+  05.28.08 SRM 403 - Problem Set & Analysis 
+
+  05.24.08 SRM 402 - Problem Set & Analysis 
+  05.06.08 SRM 401 - Problem Set & Analysis 
+  05.01.08 SRM 400 - Problem Set & Analysis 
+
+   
+
+   
+  
+ April 
+  
+  04.23.08 SRM 399 - Problem Set & Analysis 
+
+  04.15.08 SRM 398 - Problem Set & Analysis 
+  04.12.08 SRM 397 - Problem Set & Analysis 
+  04.03.08 SRM 396 - Problem Set & Analysis 
+
+   
+
+   
+  
+ March 
+  
+  03.26.08 SRM 395 - Problem Set & Analysis 
+
+  03.22.08 SRM 394 - Problem Set & Analysis 
+  03.11.08 SRM 393 - Problem Set & Analysis 
+  03.08.08 TCO08 - Online Round 4 - Problem Set & Analysis 
+
+  03.06.08 SRM 392 - Problem Set & Analysis 
+  03.01.08 TCO08 - Online Round 3 - Problem Set & Analysis 
+   
+
+   
+
+  
+ February 
+  
+  02.26.08 SRM 391 - Problem Set & Analysis 
+  02.23.08 TCO08 - Online Round 2 - Problem Set & Analysis 
+
+  02.16.08 TCO08 - Online Round 1 - Problem Set & Analysis 
+  02.13.08 TCO08 - Qualification Round 3 - Problem Set & Analysis 
+  02.09.08 TCO08 - Qualification Round 2 - Problem Set & Analysis 
+
+  02.05.08 TCO08 - Qualification Round 1 - Problem Set & Analysis 
+  02.02.08 SRM 390 - Problem Set & Analysis 
+   
+
+   
+
+  
+ January 
+  
+  01.24.08 SRM 389 - Problem Set & Analysis 
+  01.15.08 SRM 388 - Problem Set & Analysis 
+
+  01.09.08 SRM 387 - Problem Set & Analysis 
+  01.05.08 SRM 386 - Problem Set & Analysis 
+   
+
+  
+
+  Match Editorial Archive - 2007 
+
+   
+  
+ December 
+  
+  12.27.07 SRM 385 - Problem Set & Analysis 
+
+  12.19.07 SRM 384 - Problem Set & Analysis 
+  12.13.07 SRM 383 - Problem Set & Analysis 
+  12.11.07 SRM 382 - Problem Set & Analysis 
+
+  12.08.07 SRM 381 - Problem Set & Analysis 
+  12.04.07 SRM 380 - Problem Set & Analysis 
+
+   
+  
+
+ November 
+  
+  11.28.07 SRM 379 - Problem Set & Analysis 
+  11.20.07 SRM 378 - Problem Set & Analysis 
+
+  11.17.07 SRM 377 - Problem Set & Analysis 
+  11.14.07 SRM 376 - Problem Set & Analysis 
+  11.10.07 SRM 375 - Problem Set & Analysis 
+
+  11.06.07 SRM 374 - Problem Set & Analysis 
+  11.02.07 TCCC07 Finals - Problem Set & Analysis 
+  11.01.07 TCCC07 Wildcard - Problem Set & Analysis 
+
+  11.01.07 TCCC07 Room 3 - Problem Set & Analysis 
+
+   
+  
+ October 
+  
+  10.31.07 TCCC07 Room 2 - Problem Set & Analysis 
+
+  10.31.07 TCCC07 Room 1 - Problem Set & Analysis 
+  10.23.07 SRM 373 - Problem Set & Analysis 
+  10.17.07 SRM 372 - Problem Set & Analysis 
+
+  10.13.07 SRM 371 - Problem Set & Analysis 
+  10.09.07 SRM 370 - Problem Set & Analysis 
+  10.04.07 SRM 369 - Problem Set & Analysis 
+
+  10.02.07 SRM 368 - Problem Set & Analysis 
+
+   
+  
+ September 
+  
+  09.26.07 SRM 367 - Problem Set & Analysis 
+
+  09.22.07 TCCC07 - Algorithm Round 4 - Problem Set & Analysis 
+  09.18.07 SRM 366 - Problem Set & Analysis 
+  09.15.07 TCCC07 - Algorithm Round 3 - Problem Set & Analysis 
+
+  09.14.07 SRM 365 - Problem Set & Analysis 
+  09.08.07 TCCC07 - Algorithm Round 2 - Problem Set & Analysis 
+  09.04.07 SRM 364 - Problem Set & Analysis 
+
+  09.01.07 TCCC07 - Algorithm Round 1C - Problem Set & Analysis 
+
+   
+  
+ August 
+  
+  08.30.07 TCCC07 - Algorithm Round 1B - Problem Set & Analysis 
+
+  08.28.07 TCCC07 - Algorithm Round 1A - Problem Set & Analysis 
+  08.23.07 TCCC07 - Qualification Round 3 - Problem Set & Analysis 
+  08.21.07 TCCC07 - Qualification Round 2 - Problem Set & Analysis 
+
+  08.18.07 TCCC07 - Qualification Round 1 - Problem Set & Analysis 
+  08.11.07 SRM 363 - Problem Set & Analysis 
+  08.07.07 SRM 362 - Problem Set & Analysis 
+
+  08.01.07 SRM 361 - Problem Set & Analysis 
+
+   
+  
+ July 
+  
+  07.24.07 SRM 360 - Problem Set & Analysis 
+
+  07.21.07 SRM 359 - Problem Set & Analysis 
+  07.17.07 SRM 358 - Problem Set & Analysis 
+  07.12.07 SRM 357 - Problem Set & Analysis 
+
+  07.02.07 SRM 356 - Problem Set & Analysis 
+
+   
+  
+ June 
+  
+  06.29.07 TCO07 Finals - Problem Set & Analysis 
+
+  06.28.07 TCO07 Wildcard - Problem Set & Analysis 
+  06.28.07 TCO07 Room 3 - Problem Set & Analysis 
+  06.27.07 TCO07 Room 2 - Problem Set & Analysis 
+
+  06.27.07 TCO07 Room 1 - Problem Set & Analysis 
+  06.20.07 SRM 355 - Problem Set & Analysis 
+  06.14.07 SRM 354 - Problem Set & Analysis 
+
+  06.07.07 SRM 353 - Problem Set & Analysis 
+  06.02.07 SRM 352 - Problem Set & Analysis 
+
+   
+  
+
+ May 
+  
+  05.29.07 SRM 351 - Problem Set & Analysis 
+  05.23.07 SRM 350 - Problem Set & Analysis 
+
+  05.15.07 SRM 349 - Problem Set & Analysis 
+  05.09.07 SRM 348 - Problem Set & Analysis 
+  05.01.07 SRM 347 - Problem Set & Analysis 
+
+
+   
+  
+ April 
+  
+  04.28.07 TCO07 - Algorithm Round 4 - Problem Set & Analysis 
+  04.24.07 SRM 346 - Problem Set & Analysis 
+
+  04.21.07 TCO07 - Algorithm Round 3 - Problem Set & Analysis 
+  04.18.07 SRM 345 - Problem Set & Analysis 
+  04.14.07 TCO07 - Algorithm Round 2 - Problem Set & Analysis 
+
+  04.12.07 TCO07 - Algorithm Round 1C - Problem Set & Analysis 
+  04.10.07 TCO07 - Algorithm Round 1B - Problem Set & Analysis 
+  04.07.07 TCO07 - Algorithm Round 1A - Problem Set & Analysis 
+
+  04.03.07 TCO07 - Qualification Round 3 - Problem Set & Analysis 
+
+   
+  
+ March 
+  
+  03.31.07 TCO07 - Qualification Round 2 - Problem Set & Analysis 
+
+  03.29.07 TCO07 - Qualification Round 1 - Problem Set & Analysis 
+  03.28.07 SRM 344 - Problem Set & Analysis 
+  03.22.07 SRM 343 - Problem Set & Analysis 
+
+  03.14.07 SRM 342 - Problem Set & Analysis 
+  03.10.07 SRM 341 - Problem Set & Analysis 
+
+   
+  
+
+ February 
+  
+  02.20.07 SRM 340 - Problem Set & Analysis 
+  02.14.07 SRM 339 - Problem Set & Analysis 
+
+  02.07.07 SRM 338 - Problem Set & Analysis 
+  02.03.07 SRM 337 - Problem Set & Analysis 
+
+   
+
+  
+ January 
+  
+  01.25.07 SRM 336 - Problem Set & Analysis 
+  01.17.07 SRM 335 - Problem Set & Analysis 
+
+  01.13.07 SRM 334 - Problem Set & Analysis 
+  01.04.07 SRM 333 - Problem Set & Analysis 
+   
+
+  Match Editorial Archive - 2006 
+
+   
+  
+ December 
+  
+  12.28.06 SRM 332 - Problem Set & Analysis 
+
+  12.21.06 SRM 331 - Problem Set & Analysis 
+  12.13.06 SRM 330 - Problem Set & Analysis 
+  12.09.06 SRM 329 - Problem Set & Analysis 
+
+   
+  
+ November 
+  
+  11.29.06 SRM 328 - Problem Set & Analysis 
+
+  11.22.06 SRM 327 - Problem Set & Analysis 
+  11.17.06 TCCC06 - Finals Room - Problem Set & Analysis 
+  11.16.06 TCCC06 - WildCard Room - Problem Set & Analysis 
+
+  11.16.06 TCCC06 - Semifinals Room 3 - Problem Set & Analysis 
+  11.15.06 TCCC06 - Semifinals Room 2 - Problem Set & Analysis 
+  11.15.06 TCCC06 - Semifinals Room 1 - Problem Set & Analysis 
+
+  11.11.06 SRM 326 - Problem Set & Analysis 
+  11.02.06 SRM 325 - Problem Set & Analysis 
+
+   
+
+  October 
+  10.25.06 SRM 324 - Problem Set & Analysis 
+  10.19.06 SRM 323 - Problem Set & Analysis 
+
+  10.14.06 TCCC06 - Online Round 3 - Problem Set & Analysis 
+  10.11.06 TCCC06 - Online Round 2-C - Problem Set & Analysis 
+  10.09.06 SRM 322 - Problem Set & Analysis 
+
+  10.07.06 TCCC06 - Online Round 2-B - Problem Set & Analysis 
+  10.05.06 TCCC06 - Online Round 2-A - Problem Set & Analysis 
+  10.02.06 SRM 321 - Problem Set & Analysis 
+
+   
+  September 
+  09.30.06 SRM 320 - Problem Set & Analysis 
+  09.27.06 TCCC06 - Online Round 1-C - Problem Set & Analysis 
+
+  09.23.06 TCCC06 - Online Round 1-B - Problem Set & Analysis 
+  09.21.06 TCCC06 - Online Round 1-A - Problem Set & Analysis 
+  09.18.06 SRM 319 - Problem Set & Analysis 
+
+  09.12.06 TCCC06 - Qualification Round 3 - Problem Set & Analysis 
+  09.09.06 TCCC06 - Qualification Round 2 - Problem Set & Analysis 
+  09.07.06 TCCC06 - Qualification Round 1 - Problem Set & Analysis 
+
+   
+  August 
+  08.29.06 SRM 318 - Problem Set & Analysis 
+  08.24.06 SRM 317 - Problem Set & Analysis 
+
+  08.19.06 SRM 316 - Problem Set & Analysis 
+  08.09.06 SRM 315 - Problem Set & Analysis 
+  08.03.06 SRM 314 - Problem Set & Analysis 
+
+   
+  July 
+  07.26.06 SRM 313 - Problem Set & Analysis 
+  07.22.06 SRM 312 - Problem Set & Analysis 
+
+  07.12.06 SRM 311 - Problem Set & Analysis 
+  07.06.06 SRM 310 - Problem Set & Analysis 
+
+   
+
+  June 
+  06.28.06 SRM 309 - Problem Set & Analysis 
+  06.24.06 SRM 308 - Problem Set & Analysis 
+
+  06.15.06 SRM 307 - Problem Set & Analysis 
+  06.08.06 SRM 306 - Problem Set & Analysis 
+
+   
+
+  May 
+  05.31.06 SRM 305 - Problem Set & Analysis 
+  05.27.06 SRM 304 - Problem Set & Analysis 
+
+  05.18.06 SRM 303 - Problem Set & Analysis 
+  05.11.06 SRM 302 - Problem Set & Analysis 
+  05.09.06 SRM 301 - Problem Set & Analysis 
+
+  05.05.06 TCO06 - Finals Room - Problem Set & Analysis 
+  05.04.06 TCO06 - WildCard Room - Problem Set & Analysis 
+  05.04.06 TCO06 - Semifinals Room 3 - Problem Set & Analysis 
+
+  05.04.06 TCO06 - Semifinals Room 2 - Problem Set & Analysis 
+  05.03.06 TCO06 - Semifinals Room 1 - Problem Set & Analysis 
+
+   
+
+  April 
+  04.27.06 SRM 300 - Problem Set & Analysis 
+  04.22.06 SRM 299 - Problem Set & Analysis 
+
+  04.11.06 SRM 298 - Problem Set & Analysis 
+  04.06.06 SRM 297 - Problem Set & Analysis 
+  04.03.06 SRM 296 - Problem Set & Analysis 
+
+   
+  March 
+  03.29.06 SRM 295 - Problem Set & Analysis 
+  03.25.06 SRM 294 - Problem Set & Analysis 
+
+  03.22.06 TCO06 - Online Round 4 - Problem Set & Analysis 
+  03.17.06 SRM 293 - Problem Set & Analysis 
+  03.15.06 TCO06 - Online Round 3 - Problem Set & Analysis 
+
+  03.08.06 TCO06 - Online Round 2 - Problem Set & Analysis 
+  03.07.06 SRM 292 - Problem Set & Analysis 
+  03.04.06 TCO06 - Online Round 1 - Problem Set & Analysis 
+
+   
+  February 
+  02.28.06 TCO06 - Qualification Sets - Problem Set & Analysis 
+  02.21.06 SRM 291 - Problem Set & Analysis 
+
+  02.16.06 SRM 290 - Problem Set & Analysis 
+  02.14.06 SRM 289 - Problem Set & Analysis 
+  02.08.06 SRM 288 - Problem Set & Analysis 
+
+  02.04.06 SRM 287 - Problem Set & Analysis 
+
+   
+  January 
+  01.30.06 SRM 286 - Problem Set & Analysis 
+
+  01.24.06 SRM 285 - Problem Set & Analysis 
+  01.21.06 SRM 284 - Problem Set & Analysis 
+  01.19.06 SRM 283 - Problem Set & Analysis 
+
+  01.10.06 SRM 282 - Problem Set & Analysis 
+  01.05.06 SRM 281 - Problem Set & Analysis 
+  
+
+  
+
+
+ 
+  Match Editorial Archive - 2005 
+
+   
+  December 
+  12.28.05 SRM 280 - Problem Set & Analysis 
+
+  12.21.05 SRM 279 - Problem Set & Analysis 
+  12.19.05 SRM 278 - Problem Set & Analysis 
+  12.17.05 SRM 277 - Problem Set & Analysis 
+
+  12.08.05 SRM 276 - Problem Set & Analysis 
+
+   
+  November 
+  11.30.05 SRM 275 - Problem Set & Analysis 
+
+  11.23.05 SRM 274 - Problem Set & Analysis 
+  11.21.05 SRM 273 - Problem Set & Analysis 
+  11.19.05 SRM 272 - Problem Set & Analysis 
+
+  11.08.05 SRM 271 - Problem Set & Analysis 
+  11.03.05 SRM 270 - Problem Set & Analysis 
+
+   
+
+  October 
+  10.26.05 SRM 269 - Problem Set & Analysis 
+  10.18.05 SRM 268 - Problem Set & Analysis 
+
+  10.14.05 TCO05 - Finals - Problem Set & Analysis 
+  10.14.05 TCO05 - WildCard Room - Problem Set & Analysis 
+  10.13.05 TCO05 - Semifinals Room 3 - Problem Set & Analysis 
+
+  10.13.05 TCO05 - Semifinals Room 2 - Problem Set & Analysis 
+  10.13.05 TCO05 - Semifinals Room 1 - Problem Set & Analysis 
+  10.06.05 SRM 267 - Problem Set & Analysis 
+
+  10.01.05 SRM 266 - Problem Set & Analysis 
+
+   
+  September 
+  09.27.05 SRM 265 - Problem Set & Analysis 
+
+  09.20.05 SRM 264 - Problem Set & Analysis 
+  09.14.05 SRM 263 - Problem Set & Analysis 
+  09.09.05 SRM 262 - Problem Set & Analysis 
+
+  09.07.05 TCO05 - Online Round 4 - Problem Set & Analysis 
+
+   
+  August 
+  08.31.05 TCO05 - Online Round 3 - Problem Set & Analysis 
+
+  08.30.05 SRM 261 - Problem Set & Analysis 
+  08.27.05 SRM 260 - Problem Set & Analysis 
+  08.24.05 TCO05 - Online Round 2 - Problem Set & Analysis 
+
+  08.22.05 SRM 259 - Problem Set & Analysis 
+  08.20.05 TCO05 - Online Round 1 - Problem Set & Analysis 
+  08.16.05 TCO05 - Qualification 5 - Problem Set & Analysis 
+
+  08.16.05 TCO05 - Qualification 4 - Problem Set & Analysis 
+  08.16.05 TCO05 - Qualification 3 - Problem Set & Analysis 
+  08.16.05 TCO05 - Qualification 2 - Problem Set & Analysis 
+
+  08.16.05 TCO05 - Qualification 1 - Problem Set & Analysis 
+  08.10.05 SRM 258 - Problem Set & Analysis 
+  08.08.05 SRM 257 - Problem Set & Analysis 
+
+  08.02.05 SRM 256 - Problem Set & Analysis 
+
+   
+  July 
+  07.28.05 SRM 255 - Problem Set & Analysis 
+
+  07.26.05 SRM 254 - Problem Set & Analysis 
+  07.23.05 SRM 253 - Problem Set & Analysis 
+  07.12.05 SRM 251 - Problem Set & Analysis 
+
+  07.07.05 SRM 250 - Problem Set & Analysis 
+
+   
+  June 
+  06.29.05 SRM 249 - Problem Set & Analysis 
+
+  06.21.05 SRM 248 - Problem Set & Analysis 
+  06.18.05 SRM 247 - Problem Set & Analysis 
+  06.09.05 SRM 246 - Problem Set & Analysis 
+
+  06.01.05 SRM 245 - Problem Set & Analysis 
+
+   
+  May 
+  05.23.05 SRM 244 - Problem Set & Analysis 
+
+  05.17.05 SRM 243 - Problem Set & Analysis 
+  05.14.05 SRM 242 - Problem Set & Analysis 
+  05.04.05 SRM 241 - Problem Set & Analysis 
+
+
+   
+  April 
+  04.30.05 SRM 240 - Problem Set & Analysis 
+  04.18.05 SRM 239 - Problem Set & Analysis 
+
+  04.14.05 SRM 238 - Problem Set & Analysis 
+  04.06.05 SRM 237 - Problem Set & Analysis 
+  04.02.05 SRM 236 - Problem Set & Analysis 
+
+
+   
+  March 
+  03.22.05 SRM 235 - Problem Set & Analysis 
+  03.16.05 SRM 234 - Problem Set & Analysis 
+
+  03.11.05 TCCC05 - Finals - Problem Set & Analysis 
+  03.11.05 TCCC05 - WildCard Room - Problem Set & Analysis 
+  03.10.05 TCCC05 - Semifinals Room 3 - Problem Set & Analysis 
+
+  03.10.05 TCCC05 - Semifinals Room 2 - Problem Set & Analysis 
+  03.10.05 TCCC05 - Semifinals Room 1 - Problem Set & Analysis 
+  03.02.05 SRM 233 - Problem Set & Analysis 
+
+
+   
+  February 
+  02.23.05 SRM 232 - Problem Set & Analysis 
+  02.19.05 SRM 231 - Problem Set & Analysis 
+
+  02.08.05 SRM 230 - Problem Set & Analysis 
+  02.02.05 TCCC05 - Online Round 4 - Problem Set & Analysis 
+
+   
+
+  January 
+  01.31.05 SRM 229 - Problem Set & Analysis 
+  01.27.05 SRM 228 - Problem Set & Analysis 
+
+  01.26.05 TCCC05 - Online Round 3 - Problem Set & Analysis 
+  01.22.05 SRM 227 - Problem Set & Analysis 
+  01.19.05 TCCC05 - Online Round 2 - Problem Set & Analysis 
+
+  01.15.05 TCCC05 - Online Round 1 - Problem Set & Analysis 
+  01.12.05 TCCC05 - Qualification 5 - Problem Set & Analysis 
+  01.12.05 TCCC05 - Qualification 4 - Problem Set & Analysis 
+
+  01.12.05 TCCC05 - Qualification 3 - Problem Set & Analysis 
+  01.12.05 TCCC05 - Qualification 2 - Problem Set & Analysis 
+  01.12.05 TCCC05 - Qualification 1 - Problem Set & Analysis 
+
+  01.05.05 SRM 226 - Problem Set & Analysis 
+  
+
+  
+
+ 
+  Match Editorial Archive - 2004 
+
+   
+  December 
+  12.28.04 SRM 225 - Problem Set & Analysis 
+  12.22.04 SRM 224 - Problem Set & Analysis 
+
+  12.18.04 SRM 223 - Problem Set & Analysis 
+  12.07.04 SRM 222 - Problem Set & Analysis 
+  12.01.04 SRM 221 - Problem Set & Analysis 
+
+   
+  November 
+  11.23.04 SRM 220 - Problem Set & Analysis 
+  11.20.04 SRM 219 - Problem Set & Analysis 
+
+  11.12.04 TCO04 - Finals - Problem Set & Analysis 
+  11.12.04 TCO04 - WildCard Round - Problem Set & Analysis 
+  11.11.04 TCO04 - Semifinals Room 3 - Problem Set & Analysis 
+
+  11.11.04 TCO04 - Semifinals Room 2 - Problem Set & Analysis 
+  11.11.04 TCO04 - Semifinals Room 1 - Problem Set & Analysis 
+  11.04.04 SRM 218- Problem Set & Analysis 
+
+   
+  October 
+  10.27.04 SRM 217- Problem Set & Analysis 
+  10.18.04 SRM 216- Problem Set & Analysis 
+
+  10.16.04 SRM 215- Problem Set & Analysis 
+  10.06.04 SRM 214- Problem Set & Analysis 
+
+   
+
+  September 
+  09.29.04 TCO04 - Online Round 4 - Problem Set & Analysis 
+  09.28.04 SRM 213- Problem Set & Analysis 
+
+  09.25.04 SRM 212- Problem Set & Analysis 
+  09.22.04 TCO04 - Online Round 3 - Problem Set & Analysis 
+  09.14.04 TCO04 - Online Round 2 - Problem Set & Analysis 
+
+  09.14.04 SRM 211- Problem Set & Analysis 
+  09.11.04 TCO04 - Online Round 1 - Problem Set & Analysis 
+  09.08.04 TCO04 - Qualification 5 - Problem Set & Analysis 
+
+  09.08.04 TCO04 - Qualification 4 - Problem Set & Analysis 
+  09.08.04 TCO04 - Qualification 3 - Problem Set & Analysis 
+  09.08.04 TCO04 - Qualification 2 - Problem Set & Analysis 
+
+  09.08.04 TCO04 - Qualification 1 - Problem Set & Analysis 
+  09.01.04 SRM 210- Problem Set & Analysis 
+
+   
+
+  August 
+  08.28.04 SRM 209- Problem Set & Analysis 
+  08.18.04 SRM 208- Problem Set & Analysis 
+
+  08.10.04 SRM 207- Problem Set & Analysis 
+  08.04.04 SRM 206- Problem Set & Analysis 
+
+   
+
+  July 
+  07.31.04 SRM 205- Problem Set & Analysis 
+  07.21.04 SRM 204- Problem Set & Analysis 
+
+  07.15.04 SRM 203- Problem Set & Analysis 
+  07.07.04 SRM 202- Problem Set & Analysis 
+
+   
+
+  June 
+  06.29.04 SRM 201- Problem Set & Analysis 
+  06.21.04 SRM 200- Problem Set & Analysis 
+
+  06.16.04 SRM 199- Problem Set & Analysis 
+  06.12.04 SRM 198- Problem Set & Analysis 
+  06.02.04 SRM 197- Problem Set & Analysis 
+
+   
+  May 
+  05.27.04 SRM 196- Problem Set & Analysis 
+  05.18.04 SRM 195- Problem Set & Analysis 
+
+  05.15.04 SRM 194- Problem Set & Analysis 
+  05.05.04 SRM 193- Problem Set & Analysis 
+
+   
+
+  April 
+  04.27.04 SRM 192- Problem Set & Analysis 
+  04.24.04 SRM 191- Problem Set & Analysis 
+
+  04.16.04 TCCC04 - Finals - Problem Set & Analysis 
+  04.15.04 TCCC04 - Wildcard Room - Problem Set & Analysis 
+  04.15.04 TCCC04 - Semi Room 3 - Problem Set & Analysis 
+
+  04.15.04 TCCC04 - Semi Room 2 - Problem Set & Analysis 
+  04.15.04 TCCC04 - Semi Room 1 - Problem Set & Analysis 
+  04.06.04 SRM 190 - Problem Set & Analysis 
+
+   
+  March 
+  03.31.04 SRM 189 - Problem Set & Analysis 
+  03.25.04 SRM 188 - Problem Set & Analysis 
+
+  03.17.04 TCCC04 - Online Round 4 - Problem Set & Analysis 
+  03.16.04 SRM 187 - Problem Set & Analysis 
+  03.13.04 SRM 186 - Problem Set & Analysis 
+
+  03.10.04 TCCC04 - Online Round 3 - Problem Set & Analysis 
+  03.03.04 TCCC04 - Online Round 2 - Problem Set & Analysis 
+  03.01.04 SRM 185 - Problem Set & Analysis 
+
+   
+  February 
+  02.28.04 TCCC04 - Online Round 1 - Problem Set & Analysis 
+  02.24.04 TCCC04 - Qualification 5 - Problem Set & Analysis 
+
+  02.24.04 TCCC04 - Qualification 4 - Problem Set & Analysis 
+  02.24.04 TCCC04 - Qualification 3 - Problem Set & Analysis 
+  02.24.04 TCCC04 - Qualification 2 - Problem Set & Analysis 
+
+  02.24.04 TCCC04 - Qualification 1 - Problem Set & Analysis 
+  02.17.04 SRM 184 - Problem Set & Analysis 
+  02.11.04 SRM 183 - Problem Set & Analysis 
+
+  02.07.04 SRM 182 - Problem Set & Analysis 
+
+  January 
+  01.28.04 SRM 181 - Problem Set & Analysis 
+
+  01.22.04 SRM 180 - Problem Set & Analysis 
+  01.17.04 SRM 179 - Problem Set & Analysis 
+  01.07.04 SRM 178 - Problem Set & Analysis 
+
+  
+
+  
+
+ 
+  Match Editorial Archive - 2003 
+
+   
+  December 
+
+  12.30.03 SRM 177 - Problem Set & Analysis 
+  12.22.03 SRM 176 - Problem Set & Analysis 
+  12.17.03 SRM 175 - Problem Set & Analysis 
+
+  12.13.03 SRM 174 - Problem Set & Analysis 
+  12.05.03 2003 TCO Finals - Problem Set & Analysis 
+  12.04.03 2003 TCO Semi Room 4 - Problem Set & Analysis 
+
+  12.04.03 2003 TCO Semi Room 3 - Problem Set & Analysis 
+  12.04.03 2003 TCO Semi Room 2 - Problem Set & Analysis 
+  12.04.03 2003 TCO Semi Room 1 - Problem Set & Analysis 
+
+  November 
+  11.26.03 SRM 173 - Problem Set & Analysis 
+  11.20.03 SRM 172 - Problem Set & Analysis 
+
+  11.17.03 CRPF - Finals - Problem Set & Analysis 
+  11.12.03 SRM 171 - Problem Set & Analysis 
+  11.11.03 CRPF - Round 1 - Problem Set & Analysis 
+
+  11.08.03 SRM 170 - Problem Set & Analysis 
+  11.05.03 TCO - Online Round 4 - Problem Set & Analysis 
+
+   
+
+  October 
+  10.29.03 TCO - Online Round 3 - Problem Set & Analysis 
+  10.28.03 SRM 169 - Problem Set & Analysis 
+
+  10.22.03 TCO - Online Round 2 - Problem Set & Analysis 
+  10.21.03 SRM 168 - Problem Set & Analysis 
+  10.15.03 TCO - Online Round 1 - Problem Set & Analysis 
+
+  10.14.03 SRM 167 - Problem Set & Analysis 
+  10.09.03 TCO - Qualification Round 2 - Problem Set & Analysis 
+  10.07.03 TCO - Qualification Round 1 - Problem Set & Analysis 
+
+  10.01.03 SRM 166 - Problem Set & Analysis 
+
+   
+
+  September 
+  09.23.03 SRM 165 - Problem Set & Analysis 
+
+  09.20.03 SRM 164 - Problem Set & Analysis 
+  09.08.03 SRM 163 - Problem Set & Analysis 
+  09.03.03 SRM 162 - Problem Set & Analysis 
+
+   
+
+  August 
+  08.28.03 SRM 161 - Problem Set & Analysis 
+  08.23.03 SRM 160 - Problem Set & Analysis 
+
+  08.12.03 SRM 159 - Problem Set & Analysis 
+  08.06.03 SRM 158 - Problem Set & Analysis 
+
+   
+
+  July 
+  07.28.03 SRM 157 - Problem Set & Analysis 
+  07.23.03 SRM 156 - Problem Set & Analysis 
+
+  07.17.03 SRM 155 - Problem Set & Analysis 
+  07.09.03 SRM 154 - Problem Set & Analysis 
+  07.01.03 SRM 153 - Problem Set & Analysis 
+
+   
+
+  June 
+  06.26.03 SRM 152 - Problem Set & Analysis 
+  06.17.03 SRM 151 - Problem Set & Analysis 
+
+  06.11.03 SRM 150 - Problem Set & Analysis 
+  06.02.03 SRM 149 - Problem Set & Analysis 
+
+   
+
+  May 
+  05.28.03 SRM 148 - Problem Set & Analysis 
+  05.22.03 SRM 147 - Problem Set & Analysis 
+
+  05.14.03 SRM 146 - Problem Set & Analysis 
+  05.06.03 SRM 145 - Problem Set & Analysis 
+
+   
+
+  April 
+  04.30.03 SRM 144 - Problem Set & Analysis 
+  04.15.03 SRM 142 - Problem Set & Analysis 
+
+  04.10.03 SRM 141 - Problem Set & Analysis 
+  04.05.03 2003 TCCC Finals - Problem Set & Analysis 
+  04.04.03 2003 TCCC Semifinals Room #4 - Problem Set & Analysis 
+
+  04.04.03 2003 TCCC Semifinals Room #3 - Problem Set & Analysis 
+  04.04.03 2003 TCCC Semifinals Room #2 - Problem Set & Analysis 
+  04.04.03 2003 TCCC Semifinals Room #1 - Problem Set & Analysis 
+
+   
+
+  March 
+  03.26.03 SRM 140 - Problem Set & Analysis 
+  03.18.03 SRM 139 - Problem Set & Analysis 
+
+  03.12.03 2003 TCCC Regional Finals - Problem Set & Analysis 
+  03.10.03 SRM 138 - Problem Set & Analysis 
+  03.06.03 SRM 137 - Problem Set & Analysis 
+
+  03.05.03 2003 TCCC Regional Semi. - Problem Set & Analysis 
+
+   
+
+  February 
+  02.26.03 2003 TCCC Regional Quart. - Problem Set & Analysis 
+
+  02.25.03 SRM 136 - Problem Set & Analysis 
+  02.22.03 2003 TCCC Round 1 Int. - Problem Set & Analysis 
+  02.20.03 2003 TCCC Round 1 W/MW - Problem Set & Analysis 
+
+  02.18.03 2003 TCCC Round 1 NE/SE - Problem Set & Analysis 
+  02.11.03 SRM 135 - Problem Set & Analysis 
+  02.08.03 SRM 134 - Problem Set & Analysis 
+
+  02.05.03 SRM 133 - Problem Set & Analysis 
+  02.01.03 SRM 132 - Problem Set & Analysis 
+
+   
+
+  January 
+  01.30.03 SRM 131 - Problem Set & Analysis 
+  01.14.03 SRM 129 - Problem Set & Analysis 
+
+  01.06.03 SRM 128 - Problem Set & Analysis 
+  01.02.03 SRM 127 - Problem Set & Analysis 
+  
+
+  
+
+ 
+  Match Editorial Archive - 2002 
+
+   
+
+  December 
+  12.23.02 SRM 126 - Problem Set & Analysis 
+
+  12.16.02 SRM 125 - Problem Set & Analysis 
+  12.12.02 SRM 124 - Problem Set & Analysis 
+  12.10.02 SRM 123 - Problem Set & Analysis 
+
+  12.04.02 SRM 122 - Problem Set & Analysis 
+
+   
+
+  November 
+  11.26.02 SRM 121 - Problem Set & Analysis 
+
+  11.23.02 2002 Invitational Championship - Problem Set & Analysis 
+  11.22.02 2002 Invitational Room #4 - Problem Set & Analysis 
+  11.22.02 2002 Invitational Room #3 - Problem Set & Analysis 
+
+  11.22.02 2002 Invitational Room #2 - Problem Set & Analysis 
+  11.22.02 2002 Invitational Room #1 - Problem Set & Analysis 
+  11.13.02 SRM 120 - Problem Set & Analysis 
+
+  11.07.02 SRM 119 - Problem Set & Analysis 
+
+   
+
+  October 
+  10.30.02 2002 Invitational Round #4 - Problem Set & Analysis 
+
+  10.29.02 SRM 118 - Problem Set & Analysis 
+  10.23.02 2002 Invitational Round #3 - Problem Set & Analysis 
+  10.21.02 SRM 117 - Problem Set & Analysis 
+
+  10.16.02 2002 Invitational Round #2 - Problem Set & Analysis 
+  10.15.02 SRM 116 - Problem Set & Analysis 
+  10.10.02 2002 Invitational Round #1 (part 2) - Problem Set & Analysis 
+
+  10.08.02 2002 Invitational Round #1 (part 1) - Problem Set & Analysis 
+
+   
+
+  September 
+  09.30.02 SRM 115 - Problem Set & Analysis 
+
+  09.24.02 SRM 114 - Problem Set & Analysis 
+  09.10.02 SRM 113 - Problem Set & Analysis 
+  09.09.02 SRM 112 - Problem Set & Analysis 
+
+  09.04.02 SRM 111 - Problem Set & Analysis 
+
+
+   
+
+  August 
+  08.27.02 SRM 110 - Problem Set & Analysis 
+
+  08.21.02 SRM 109 - Problem Set & Analysis 
+  08.12.02 SRM 108 - Problem Set & Analysis 
+  08.07.02 SRM 107 - Problem Set & Analysis 
+
+  08.01.02 SRM 106 - Problem Set & Analysis 
+
+
+   
+
+  July 
+  07.24.02 SRM 105 - Problem Set & Analysis 
+
+  07.16.02 SRM 104 - Problem Set & Analysis 
+  07.10.02 SRM 103 - Rookie Review | Problem Set 
+  07.01.02 SRM 102 - Room 1 | Rookie Review | Problem Set 
+
+
+   
+
+  June 
+  06.26.02 SRM 101 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+
+  06.24.02 SRM 100 - Room 1 | Rookie Review | Problem Set 
+  06.19.02 SRM 98 - Room 1 | Rookie Review | Problem Set 
+
+  06.12.02 SRM 97 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+  06.11.02 SRM 96 - Room 1 | Rookie Review | Problem Set 
+
+  06.05.02 SRM 95 - Room 1 | Rookie Review | Problem Set 
+  06.03.02 SRM 94 - Room 1 | Rookie Review | Problem Set 
+
+
+   
+
+  May 
+  05.30.02 SRM 93 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+
+  05.29.02 SRM 92 - Room 1 | Rookie Review | Problem Set 
+  05.22.02 SRM 91 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+
+  05.21.02 SRM 90 - Room 1 | Rookie Review | Problem Set 
+  05.18.02 SRM 89 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+
+  05.15.02 SRM 88 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+  05.09.02 SRM 87 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+
+  05.08.02 SRM 86 - Room 1 | Rookie Review | Problem Set 
+  05.01.02 SRM 85 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+
+
+   
+
+  April 
+  04.30.02 SRM 84 - Room 1 | Rookie Review | Problem Set Analysis & Opinion 
+
+  04.27.02 SRM 83 - Room 1 | Rookie Review | Problem Set Analysis & Opinion 
+  04.24.02 SRM 82 - Coder Point of View editorials not available for this match. 
+  04.22.02 SRM 81 - This match was rescheduled to Saturday, April 27th as SRM 83 
+
+  04.15.02 SRM 80 - Room 1 | Rookie Review | Problem Set Analysis & Opinion 
+  04.10.02 SRM 79 - Room 1 | Rookie Review | Problem Set Analysis & Opinion 
+
+  04.09.02 SRM 78 - Room 1 | Rookie Review | Problem Set Analysis & Opinion 
+   
+ 
+        
+
+       
+           
+     
+   
+        Children 
+     
+     Hide Children 
+   
+    | View in Hierarchy 
+      
+      
+              
+       501 
+        
+              
+       Copy of SRM 591 
+        
+              
+       GoodNumbers 
+        
+              
+       Guidelines for editorial writers 
+        
+              
+       Member SRM 455 
+        
+              
+       Member SRM 458 
+        
+              
+       Member SRM 461 
+        
+              
+       Member SRM 465 
+        
+              
+       Member SRM 503 
+        
+              
+       SRM 434 
+        
+              
+       SRM 435 
+        
+              
+       SRM 436 
+        
+              
+       SRM 437 
+        
+              
+       SRM 438 
+        
+              
+       SRM 439 
+        
+              
+       SRM 440 
+        
+              
+       SRM 441 
+        
+              
+       SRM 442 
+        
+              
+       SRM 443 
+        
+              
+       SRM 444 
+        
+              
+       SRM 445 
+        
+              
+       SRM 446 
+        
+              
+       SRM 447 
+        
+              
+       SRM 448 
+        
+              
+       SRM 449 
+        
+              
+       SRM 450 
+        
+              
+       SRM 451 
+        
+              
+       SRM 452 
+        
+              
+       SRM 453 
+        
+              
+       SRM 453.5 
+        
+              
+       SRM 454 
+        
+              
+       SRM 456 
+        
+              
+       SRM 457 
+        
+              
+       SRM 459 
+        
+              
+       SRM 460 
+        
+              
+       SRM 462 
+        
+              
+       SRM 463 
+        
+              
+       SRM 464 
+        
+              
+       SRM 466 
+        
+              
+       SRM 467 
+        
+              
+       SRM 468 
+        
+              
+       SRM 469 
+        
+              
+       SRM 470 
+        
+              
+       SRM 472 
+        
+              
+       SRM 473 
+        
+              
+       SRM 475 
+        
+              
+       SRM 476 
+        
+              
+       SRM 477 
+        
+              
+       SRM 479 
+        
+              
+       SRM 480 
+        
+              
+       SRM 481 
+        
+              
+       SRM 483 
+        
+              
+       SRM 484 
+        
+              
+       SRM 486 
+        
+              
+       SRM 487 
+        
+              
+       SRM 488 
+        
+              
+       SRM 490 
+        
+              
+       SRM 492 
+        
+              
+       SRM 493 
+        
+              
+       SRM 495 
+        
+              
+       SRM 496 
+        
+              
+       SRM 497 
+        
+              
+       SRM 498 
+        
+              
+       SRM 499 
+        
+              
+       SRM 500 
+        
+              
+       SRM 501 
+        
+              
+       SRM 502 
+        
+              
+       SRM 504 
+        
+              
+       SRM 504.5 
+        
+              
+       SRM 506 
+        
+              
+       SRM 507 
+        
+              
+       SRM 508 
+        
+              
+       SRM 509 
+        
+              
+       SRM 510 
+        
+              
+       SRM 511 
+        
+              
+       SRM 512 
+        
+              
+       SRM 513 
+        
+              
+       SRM 514 
+        
+              
+       SRM 515 
+        
+              
+       SRM 516 
+        
+              
+       SRM 517 
+        
+              
+       SRM 518 
+        
+              
+       SRM 519 
+        
+              
+       SRM 520 
+        
+              
+       SRM 521 
+        
+              
+       SRM 522 
+        
+              
+       SRM 523 
+        
+              
+       SRM 524 
+        
+              
+       SRM 525 
+        
+              
+       SRM 526 
+        
+              
+       SRM 526.5 
+        
+              
+       SRM 527 
+        
+              
+       SRM 528 
+        
+              
+       SRM 529 
+        
+              
+       SRM 530 
+        
+              
+       SRM 531 
+        
+              
+       SRM 532 
+        
+              
+       SRM 533 
+        
+              
+       SRM 534 
+        
+              
+       SRM 535 
+        
+              
+       SRM 536 
+        
+              
+       SRM 537 
+        
+              
+       SRM 538 
+        
+              
+       SRM 539 
+        
+              
+       SRM 540 
+        
+              
+       SRM 541 
+        
+              
+       SRM 542 
+        
+              
+       SRM 543 
+        
+              
+       SRM 544 
+        
+              
+       SRM 545 
+        
+              
+       SRM 546 
+        
+              
+       SRM 547 
+        
+              
+       SRM 548 
+        
+              
+       SRM 549 
+        
+              
+       SRM 550 
+        
+              
+       SRM 551 
+        
+              
+       SRM 552 
+        
+              
+       SRM 553 
+        
+              
+       SRM 554 
+        
+              
+       SRM 555 
+        
+              
+       SRM 556 
+        
+              
+       SRM 557 
+        
+              
+       SRM 558 
+        
+              
+       SRM 559 
+        
+              
+       SRM 560 
+        
+              
+       SRM 561 
+        
+              
+       SRM 562 
+        
+              
+       SRM 563 
+        
+              
+       SRM 564 
+        
+              
+       SRM 565 
+        
+              
+       SRM 566 
+        
+              
+       SRM 567 
+        
+              
+       SRM 568 
+        
+              
+       SRM 569 
+        
+              
+       SRM 570 
+        
+              
+       SRM 571 
+        
+              
+       SRM 573 
+        
+              
+       SRM 574 
+        
+              
+       SRM 575 
+        
+              
+       SRM 576 
+        
+              
+       SRM 577 
+        
+              
+       SRM 578 
+        
+              
+       SRM 579 
+        
+              
+       SRM 580 
+        
+              
+       SRM 581 
+        
+              
+       SRM 582 
+        
+              
+       SRM 583 
+        
+              
+       SRM 584 
+        
+              
+       SRM 585 
+        
+              
+       SRM 586 
+        
+              
+       SRM 587 
+        
+              
+       SRM 588 
+        
+              
+       SRM 589 
+        
+              
+       SRM 590 
+        
+              
+       SRM 591 
+        
+              
+       SRM 592 
+        
+              
+       SRM 593 
+        
+              
+       SRM 594 
+        
+              
+       SRM 595 
+        
+              
+       SRM 596 
+        
+              
+       SRM 597 
+        
+              
+       SRM+460 
+        
+              
+       TCO 2010 Qualify 1 
+        
+              
+       TCO 2012 Round 1A 
+        
+              
+       TCO 2012 Round 1B 
+        
+              
+       TCO 2012 Round 1C 
+        
+              
+       TCO 2012 Round 2A 
+        
+              
+       TCO 2012 Round 2B 
+        
+              
+       TCO 2012 Round 2C 
+        
+              
+       TCO 2012 Round 3A 
+        
+              
+       TCO 2012 Round 3B 
+        
+              
+       TCO 2013 Finals 
+        
+              
+       TCO 2013 Round 1A 
+        
+              
+       TCO 2013 Round 1B 
+        
+              
+       TCO 2013 Round 1C 
+        
+              
+       TCO 2013 Round 2A 
+        
+              
+       TCO 2013 Round 2B 
+        
+              
+       TCO 2013 Round 2C 
+        
+              
+       TCO 2013 Round 3A 
+        
+              
+       TCO 2013 Round 3B 
+        
+              
+       TCO 2013 Semifinal 1 
+        
+              
+       TCO 2013 Semifinal 2 
+        
+              
+       TCO 2013 Wildcard 
+        
+              
+       TCO'09 Championship Round 
+        
+              
+       TCO'09 Elimination Round 1 
+        
+              
+       TCO'09 Elimination Round 2 
+        
+              
+       TCO'09 Elimination Round 3 
+        
+              
+       TCO'09 Elimination Round 4 
+        
+              
+       TCO'09 Elimination Round 5 
+        
+              
+       TCO'09 Qualification Round 1 
+        
+              
+       TCO'09 Qualification Round 2 
+        
+              
+       TCO'09 Qualification Round 3 
+        
+              
+       TCO'09 Semifinal Round 
+        
+              
+       TCO'10 Championship Round 
+        
+              
+       TCO'10 Online Round 1 
+        
+              
+       TCO'10 Online Round 2 
+        
+              
+       TCO'10 Online Round 3 
+        
+              
+       TCO'10 Online Round 4 
+        
+              
+       TCO'10 Online Round 5 
+        
+              
+       TCO'10 Qualification Round 1 
+        
+              
+       TCO'10 Qualification Round 2 
+        
+              
+       TCO'10 Qualification Round 3 
+        
+              
+       TCO'10 Semifinal 1 
+        
+              
+       TCO'10 Semifinal 2 
+        
+              
+       TCO'10 Wildcard Round 
+        
+              
+       TCO'11 Online Round 1 
+        
+              
+       TCO'11 Online Round 2 
+        
+              
+       TCO'11 Online Round 3 
+        
+              
+       TCO'11 Online Round 4 
+        
+              
+       TCO'11 Online Round 5 
+        
+              
+       TCO'11 Qualification Round 1 
+        
+              
+       TCO'11 Qualification Round 2 
+        
+              
+       TCO'11 Qualification Round 3 
+        
+              
+       TheFourSquares 
+        
+              
+       TheGameDAG 
+        
+              
+       voice recoginition 
+        
+              
+       。。。 
+        
+        
+     
+ 
+        
+
+
+
+
+ 
+ 
+
+ 
+  
+ 
+    
+    Comments 
+       ( Hide Comments ) 
+      
+ 
+ 
+   
+   
+              
+   
+     
+    Does somebody know about a way of downloading all the past SRM's problems and analysis in one file??? 
+    
+       
+ 
+        
+    
+         Posted by    gilcu3
+ at Dec 07, 2012 11:36 
+    
+                         
+
+   
+      
+  
+                      
+   
+     
+    You can use recursive wget for the editorials. 
+
+ Note, however, that redistributing these files is possibly a copyright violation, so they would have to be for private use only. 
+    
+       
+ 
+        
+    
+         Posted by    vexorian
+ at Nov 04, 2013 06:37 
+    
+                         
+
+   
+      
+  
+         
+                
+           
+   
+     
+    
+I removed old comments regarding issues that have been fixed before. 
+ 
+Let me create a small FAQ about the problem set analysis page. 
+ 
+ Q. Where is the editorial for SRM XXX? 
+ Certain matches don&apos;t have editorials. A typical reason is that the SRM in question was a Member SRM. Member SRMs problem sets were completely voluntary work and many times no one wrote an editorial for them. In other situations, the SRM may have had technical issues strong enough to make it have no statistics. In some of those cases no editorial was added. 
+ If a match misses a link here, it is usually because the editorial does not exist or is incomplete. However, if you do find an editorial that does not have a link in this page, please report it. 
+ 
+    
+       
+ 
+        
+    
+         Posted by    vexorian
+ at Nov 04, 2013 06:43 
+    
+                         
+
+   
+      
+  
+         
+           
+   
+     
+    I found SRM582 is not listed in Chronological list. 
+
+ It's only listed in Child Page List. 
+
+ Can someone add it? 
+    
+       
+ 
+        
+    
+         Posted by    antonio081014
+ at Nov 07, 2013 18:31 
+    
+                         
+
+   
+      
+  
+                      
+   
+     
+    We didn't publish it officially because it is not finished. 
+    
+       
+ 
+        
+    
+         Posted by    vexorian
+ at Nov 07, 2013 18:43 
+    
+                         
+
+   
+      
+  
+         
+                
+       
+   
+          
+
+
+
+                
+
+
+              
+   
+
+  
+   
+  
+ 
+
+ 
+
+   
+  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+  
+   
+    Home   |  
+    About TopCoder   |  
+    Press Room   |  
+    Contact Us   |  
+    Privacy   |  
+    Terms 
+    
+    Developer Center   |  
+    Corporate Services 
+   
+  
+  Copyright TopCoder, Inc. 2001-
+pa------------------------------------------van 
+Vim Cookbook 
+  
+  
+  
+ 
+ 
+ 
+ Vim Cookbook 
+ by Steve Oualline 
+ 
+This is the Vim cookbook page. It contains short recipes for doing
+many simple and not so simple things in Vim . You should already
+know the basics of Vim , however each command is explained in detail.
+ 
+ 
+Each set of instructions is a complete package. Feel free to pick
+and choose what you need.
+ 
+ Contents 
+ 
+ Character twiddling 
+ 
+ Interactively replacing one word with another 
+ 
+ 
+Interactively replacing one word with another (command line method) 
+ 
+ Replacing one word with another using one command 
+ 
+ Moving Text ( Vi style commands) 
+ 
+ Moving Text (Visual mode) 
+ 
+ Copying a block of text from one file to another 
+ 
+ 
+Copying a block of text from one file to another 
+ (Visual Method) 
+ 
+ Sorting a section ( Vi Style) 
+ 
+ Sorting a section (Visual Method) 
+ 
+ Dealing with Makefile and other SOB files 
+ 
+ Formatting a text paragraph 
+ 
+ Finding a procedure in a C program 
+ 
+ Drawing comment boxes 
+ 
+ Reading a man page 
+ 
+ Removing carriage returns from MS-DOS file 
+ 
+ Trimming the blanks off an end of line 
+ 
+ Oops, I left the file write protected 
+ 
+ Changing "Last, First" to "First Last" 
+ 
+ How to edit all the files containing a given word 
+ 
+ How to edit all the files containing a given word using the built-in grep 
+ 
+ 
+ Character twiddling 
+ 
+If you type fast your fingers can easily get ahead of your mind. Frequently
+people transpose characters. For example the word "the" comes out "teh". 
+To swap two characters, for example "e" with "h", put the cursor on the cursor
+on the "e" and type xp . 
+ 
+The "x" command deletes a character (the "e") and the "p" pastes it after the
+cursor (which is now placed over the "h".)
+ 
+ 
+Interactively replacing one word with another (n. method) 
+Suppose you want to replace every occurrence of the word "idiot" with the word
+"manager". But you want the chance to review each change before you do it. 
+Here's what you do:
+ 
+ 
+ 
+  1. 
+  1G 
+  Go to the top of the document 
+ 
+ 
+  2. 
+  /idiot&lt;enter&gt; 
+  Find the first occurrence of the word "idiot" 
+ 
+ 
+  3. 
+  cwmanager 
+  Change the word ( cw ) to manager. 
+ 
+ 
+  4. 
+  n 
+  Repeat the last search (find the next idiot.) 
+ 
+ 
+  5. 
+  . 
+  Repeat the last edit (change one word to manager)
+  
+	(If you do not want to change the word, skip this step.) 
+ 
+ 
+ 
+Repeat steps 4 and 5 until you have replaced all occurred.
+ 
+ 
+ 
+ The Virgin What!? 
+ 
+A church had just bought their first computer and were learning how to
+use it. The church secretary decided to set up a form letter to be used in a
+funeral service. Where the person's name was to be she put in the word
+"&lt;name&gt;". When a funeral occurred she would change this word to the
+actual name of the departed.
+ 
+ 
+One day, there were two funerals, first for a lady named Mary, then later one
+for someone named Edna. So the secretary used global replace to change
+"&lt;name&gt;" to "Mary." So far so good. Next she generated the service for
+the second funeral by changing the word "Mary" to "Edna." That was a mistake 
+ 
+ 
+Imagine the Minister's surprise when he started reading the part containing the
+Apostle's Creed and saw, "Born of the Virgin Edna." 
+ 
+ 
+ 
+Interactively replacing one word with another (command line method) 
+Suppose you want to replace every occurrence of the word "idiot" with the word
+"manager". But you want the chance to review each change before you do it. 
+Execute the command:
+ 
+:%s/\&lt;idiot\&gt;/manager/gc
+ 
+ 
+This command will make the change and pause after each change to give you 
+a chance to confirm it. You can enter "y" to accept the change or 
+"n" to not accept it.
+ 
+The parts of this command are:
+ 
+ 
+ 
+  : 
+  Enter command mode 
+ 
+ 
+  % 
+  Perform this command on all lines (% is a synomim
+ for the first to last line.) 
+ 
+ 
+  s 
+  The short form of the :substitute command. 
+ 
+ 
+  /\&lt;idiot\&gt;/ 
+  This text specifies the text we are looking for wand
+ want. The \&lt; tells Vim to match a word
+ start and the \&gt; tells Vim to match the 
+ end of a word. 
+ 
+ 
+  /manager/ 
+  The replacement text 
+ 
+ 
+  gc 
+  The flags. These are
+   
+	  g Global -- Change every occurance, not use
+	 the first one on each line 
+	  c Confirm -- Ask before making each change 
+	 
+  
+ 
+ 
+ 
+ 
+ Replacing one word with another using one command 
+Suppose you want to replace every occurrence of the word "idiot" with the word
+"manager". No confirmation needed because all idiots are managers.
+ 
+Use the command:
+ 
+:%s/\&lt;idiot\&gt;/manager/g
+ 
+ 
+The parts of this command are:
+ 
+ 
+ 
+  : 
+  Enter command mode 
+ 
+ 
+  % 
+  Perform this command on all lines (% is a synomim
+ for the first to last line.) 
+ 
+ 
+  s 
+  The short form of the :substitute command. 
+ 
+ 
+  /\&lt;idiot\&gt;/ 
+  This text specifies the text we are looking for wand
+ want. The \&lt; tells Vim to match a word
+ start and the \&gt; tells Vim to match the 
+ end of a word. 
+ 
+ 
+  /manager/ 
+  The replacement text 
+ 
+ 
+  g 
+  Global flag -- This flag tells Vim to change 
+ every occurance on the line, not use the first one. 
+ 
+ 
+ 
+ 
+ Moving Text ( Vi style commands) 
+ 
+Suppose you want to move a paragraphs from the top of the document to the
+bottom. There are several ways of doing this. In this example, we
+do it using Vi style command. In the next section
+ Moving Text (Visual mode) we do it using 
+using the Vim visual commands.
+ 
+ 
+To do the move the commands:
+ 
+ 
+ 
+  Command 
+  Explaination 
+ 
+ 
+  1. 
+  
+  Move the cursor to the top of the paragraph you want to move. 
+ 
+ 
+  2. 
+  ma 
+  Place a mark named "a" at this location. ( Vim 
+  will give you no indication that this command has been
+	executed. In other words, the screen will not change.) 
+ 
+ 
+  3. 
+  
+  Move the cursor to the bottom of the paragraph to be moved. 
+ 
+ 
+  4. 
+  d'a 
+  Delete to mark "a". This puts the deleted text in a cut buffer. 
+ 
+ 
+  5. 
+  
+  Move the cursor to line where the text is to go. 
+ The paragraph will be placed after this one. 
+ 
+ 
+  6. 
+  p 
+  Paste the text in below the cursor. 
+ 
+ 
+ 
+ Moving Text (Visual Method) 
+ 
+Suppose you want to move a paragraphs from the top of the document to the
+bottom. There are several ways of doing this. In this example, we
+do it using the Vim Visual mode. In the previous section
+ Moving Text (old method) we do it using 
+using the Vi style commands.
+ 
+ 
+To do the move the commands:
+ 
+ 
+ 
+  Command 
+  Explaination 
+ 
+ 
+  1. 
+  
+  Move the cursor to the top of the paragraph you want to move. 
+ 
+ 
+  2. 
+  v 
+  Start visual mode. (If you want to move only full lines, use
+ the V command which starts visual line mode. 
+ 
+ 
+  3. 
+  
+  Move the cursor to the bottom of the paragraph to be moved.
+ The text to be moved will be hightlighted. 
+ 
+ 
+  4. 
+  d 
+  Perform a visual delete. In other words delete the highlighted
+ text. 
+ 
+ 
+  5. 
+  
+  Move the cursor to line where the text is to go. 
+ The paragraph will be placed after this one. 
+ 
+ 
+  6. 
+  p 
+  Paste the text in below the cursor. 
+ 
+ 
+ 
+ Copying a block of text from one file to another 
+ (Vi Style) 
+ 
+There is more than one way to copy text between files. In this section
+we use the more triditionally Vi commands. In the next section
+ Copying using visual mode , we 
+perform the same operations using the Visual mode.
+ 
+To copy a block of text between files execute the commands:
+ 
+ 
+  Command 
+  Explaination 
+ 
+ 
+	 1. 
+	 
+	 Edit the file containing the text you want to copy. 
+ 
+ 
+	 2. 
+	 
+	 Go to the top line to be copied. 
+ 
+ 
+	 3. 
+	 ma 
+	 Mark this line as mark "a". 
+ 
+ 
+	 4. 
+	 
+	 Go to the bottom line to be copied 
+ 
+ 
+	 5. 
+	 y'a 
+	 Yank ( y ) the text from the current
+	cursor location to the mark "a" ( 'a )
+	 
+ 
+ 
+	 6. 
+	 :split second-file 
+	 Open another window containing the second file.
+	(This the file in which the text is to be inserted.) 
+ 
+ 
+	 7. 
+	 
+	 Go to the line where the insert is to occur. 
+	The text will be place after this line. 
+ 
+ 
+	 8. 
+	 p 
+	 Put the text after the cursor. 
+ 
+ 
+ 
+ 
+Copying a block of text from one file to another 
+ (Visual Method) 
+ 
+There is more than one way to copy text between files. In this section
+we use the newer visual mode commands. See the previous section for
+the older
+ Vi Style of doing things.
+ 
+To copy a block of text between files execute the commands:
+ 
+ 
+  Command 
+  Explaination 
+ 
+ 
+	 1. 
+	 
+	 Edit the file containing the text to be copied. 
+ 
+ 
+	 2. 
+	 
+	 Go to the top line to be copied. 
+ 
+ 
+	 3. 
+	 v 
+	 Start visual mode. If you want to copy a block of
+	full lines, use V to go start
+	Visual Line Mode 
+ 
+ 
+	 4. 
+	 
+	 Go to the bottom line to be copied. The text to be
+	copied will be hightlighted. 
+ 
+ 
+	 5. 
+	 y 
+	 Yank ( y ) the text.
+	 
+ 
+ 
+	 6. 
+	 :split second-file 
+	 Open another window containing the second file.
+	(This the file in which the text is to be inserted.) 
+ 
+ 
+	 7. 
+	 
+	 Go to the line where the insert is to occur. 
+	The text will be place after this line. 
+ 
+ 
+	 8. 
+	 p 
+	 Put the text after the cursor. 
+ 
+ 
+ Sorting a section ( Vi Style) 
+ 
+Frequently you will be editing a file with a list of names in it. For example,
+a list of object files that make up a program.
+ 
+ 
+For example:
+ 
+	version.o 	
+	pch.o		
+	getopt.o 	
+	util.o		
+	getopt1.o	
+	inp.o		
+	patch.o		
+	backupfile.o
+ 
+ 
+This list would be nice in alphabetical order. Or at least ASCII order. To
+alphabetize this list execute the commands:
+ 
+ 
+ 
+  Command 
+  Explaination 
+ 
+ 
+  1. 
+  
+  Move the cursor to the first line to be sorted. 
+ 
+ 
+  2. 
+  ma 
+  Mark the first line as mark a . 
+ 
+ 
+  3. 
+  
+  Move to the bottom of the text to be sorted. 
+ 
+ 
+  4. 
+  !'asort 
+  The ! command tells Vim to 
+run the text through UNIX command. The 'a tell the 
+editor that the text to be worked on starts at the
+current line and ends at mark a . 
+The command that the text is to go through
+is sort .
+ 
+ 
+ 
+The result looks like:
+ 
+ 
+	backupfile.o
+	getopt.o 	
+	getopt1.o	
+	inp.o	
+	patch.o		
+	pch.o		
+	util.o		
+	version.o 	
+ 
+ 
+  Warning 
+ 
+ 
+In actual practice what you in most Makefile s (file that
+are used by UNIX to control compilation) looks more like:
+ 
+ 
+OBJS = \
+  version.o  \
+  pch.o   \
+  getopt.o  \
+  util.o   \
+  getopt1.o  \
+  inp.o   \
+  patch.o   \
+  backupfile.o
+ 
+ 
+Notice that the backslash (\) is used to indicate a continuation line. 
+After sorting this looks like:
+ 
+ 
+OBJS = \
+  backupfile.o
+  getopt.o  \
+  getopt1.o  \
+  inp.o   \
+  patch.o   \
+  pch.o   \
+  util.o   \
+  version.o  \
+ 
+ 
+The names are in order, but the backslashes are wrong. Don't forget to fix
+them using normal editing before continuing.
+ 
+ 
+OBJS = \
+  backupfile.o \
+  getopt.o  \
+  getopt1.o  \
+  inp.o   \
+  patch.o   \
+  pch.o   \
+  util.o   \
+  version.o
+ 
+ 
+ Sorting a section (Visual Method) 
+ 
+Frequently you will be editing a file with a list of names in it. For example,
+a list of object files that make up a program.
+ 
+ 
+For example:
+ 
+	version.o 	
+	pch.o		
+	getopt.o 	
+	util.o		
+	getopt1.o	
+	inp.o		
+	patch.o		
+	backupfile.o
+ 
+ 
+This list would be nice in alphabetical order. Or at least ASCII order. To
+alphabetize this list execute the commands:
+ 
+ 
+ 
+  Command 
+  Explaination 
+ 
+ 
+  1. 
+  
+  Move the cursor to the first line to be sorted. 
+ 
+ 
+  2. 
+  V 
+  Enter visual line mode 
+ 
+ 
+  3. 
+  
+  Move to the bottom of the text to be sorted. 
+ 
+ 
+  4. 
+  !sort 
+  The ! command tells Vim to 
+ run the hightlighted text through UNIX command. 
+ The command that the text is to go through
+ is sort .
+ 
+ 
+ Warning 
+ 
+Check out the sort warning section for
+a short description of the problems that can result from using this
+command.
+ 
+ Dealing with Makefile and other SOB files 
+ 
+One problem with the file format used by the UNIX make command is that
+it's extremely fussy.
+ 
+ 
+For example, the following is correct:
+ 
+ 
+  prog: prog.c
+    cc -g -o prog prog.c
+ 
+ 
+The following is not:
+ 
+  prog: prog.c
+    cc -g -o prog prog.c
+ 
+ 
+At first glance you might think that these two are exactly. But look closer.
+The "cc" line of the first one begins with a tab. The second one begins with
+eight spaces. (You can't tell the difference between a space and a tab when
+it's printed on the screen! You need a better video card.)
+ 
+So how are you supposed to tell them apart especially when one the screen (or
+the printed page) they look exactly the same.
+ 
+The answer is you can't. You might think that's a bit unfair. Especially when
+ make works on the first one but not the second. But who every said UNIX
+was fair.
+ 
+Fortunately Vim has a mode that tells you exactly what's in your file.
+Executing the command
+ 
+ 
+	 :set list 
+ 
+puts you into this mode. When the display is set into "list mode" all
+characters print. Tabs show up as "^I" and the end of line shows up as $. So
+in list mode, our two examples look like:
+ 
+  prog: prog.c$
+  ^Icc -g -o prog prog.c$
+ 
+ 
+and
+ 
+  prog: prog.c$
+    cc -g -o prog prog.c$
+ 
+ 
+From this it's easy to see which line has the tab.
+ 
+ Formatting a text paragraph 
+ 
+The Vim editor is not a word processor. 
+Boy is it not a word processor.
+There are a couple of things you can do to make things better for you when
+editing text.
+ 
+Word processors automatically wrap when you type a line 
+that's longer than the margins. The Vim editor lets make a 
+line as long as you want. By executing the command:
+ 
+   :set wrapmargin=70 
+ 
+ 
+you can tell Vim to automatically break lines 
+when the run longer than 70 characters. 
+(You can adjust this number to whatever line length you want.)
+ 
+This makes entering text much easier. 
+It doesn't solve the problem of editing.
+If you enter a paragraph and then decide to 
+delete half the words on the first
+line, Vim will not reformat the text.
+ 
+You can force a reformat of a paragraph by executing the commands:
+ 
+ 
+  Command 
+  Explaination 
+ 
+ 
+  1. 
+  
+  Move to the top of the paragraph. 
+ 
+ 
+  2. 
+  gq} 
+  The "!" command tells Vim to pipe a section of 
+ text through a filter. The } tells Vim that 
+ the section of text for the pipe command is a single paragraph.
+ 
+ 
+  3. 
+  fmt -70 
+  The UNIX command fmt is a primitive formatter. It performs
+word-wrapping well enough for text documentation. 
+The -70 tells fmt to format lines for 70 characters per line.
+ 
+ 
+ Finding a procedure in a C program 
+ 
+The Vim program was designed by programmers for programmers. 
+You can use it to locate procedures within a set of C or C++ program files.
+ 
+But first you must generate a table of contest file called a "tags" file.
+(This file has been given the obvious name tags .) The ctags 
+command generates this table of contents files.
+ 
+To generate a table of contents of all the C program files in your current
+working directory, use the command:
+ 
+  $ ctags *.c 
+ 
+ 
+For C++ use the command:
+ 
+  $ ctags *.cpp 
+ 
+ 
+If you use an extension other than .cpp for your C++ 
+files, use it instead of .cpp .
+ 
+Once this file is generated, you tell Vim 
+that you want edit a procedure, and it will find the file 
+containing that procedure and position you there.
+For example if you want to edit the procedure 
+write_file use the command:
+ 
+  $ vim -t write_file 
+ 
+ 
+Now suppose as you are looking at the write_file procedure that it calls
+setup_data and you need to look at that procedure. To jump to that function,
+position the cursor at the beginning of the word setup_data and press Ctrl+].
+This tells Vim to jump to the definition of this procedure. This
+repositioning will occur even if Vim has to change files to do so.
+ 
+ Note: 
+If you've edited the current file and not saved it, Vim 
+will issue a warning and ignore the Ctrl+] command.
+ 
+ Drawing comment boxes 
+ 
+I like to put a big comment box at the top of each of my procedures. For
+example:
+ 
+	/*******************************************************
+	 * Program -- Solve it -- Solves the worlds problems. *
+	 *  All of them. At once. This will be a great *
+	 * program when I finish it.       *
+	 *******************************************************/
+ 
+ 
+Drawing these boxes like this is tedious at best. 
+But Vim has a nice feature called abbreviations that 
+makes things easier.
+ 
+First, you need to create a Vim initialization file called
+ ~/.vimrc . (At first this may look like a ex initialization file.
+It is. The Vim command is actually a mode of the ex editor.)
+ 
+The ~/.vimrc file need to contain the lines:
+ 
+  :ab #b /************************************************
+  :ab #e ************************************************/
+ 
+ 
+These command define a set of Vim abbreviations.
+What's a Vim abbreviation? 
+Its a word that stands for another word. When Vim see the
+abbreviation, it will expand it to the full word. In this case we've defined
+an abbreviation called #b 
+that expands to the beginning line of a comment
+box. The #e abbreviation does the same thing. 
+ 
+So to create a comment box enter #b&lt;enter&gt;. The screen looks like:
+ 
+  /************************************************
+ 
+Enter the comments, including the beginning and ending "*" characters. 
+Finally end the comment by typing #e&lt;enter&gt; . 
+This causes the ending comment to be entered.
+ 
+ Note: 
+ 
+This page was written in Vim . So how did we
+enter the #b and #e? Easy, we typed in #bb and the deleted a character. 
+(We couldn't enter #b or it would have been 
+expanded.) 
+ 
+Some other useful commands that programmer may want to put in
+their ~/.exrc include:
+ 
+	:set autoindent
+	:set autowrite
+	:ab #d #define
+	:ab #i #include
+	:ab #b /************************************************
+	:ab #e ************************************************/
+	:ab #l /*----------------------------------------------*/
+	:set sw=4
+ 
+ 
+The autoindent setting causes Vim to 
+indent new lines by a similar amount
+to the one next to them. 
+This is very useful for entering programs. The
+autowrite setting tells Vim to write the old file out when switching from
+one file to another.
+ 
+The abbreviations #d , 
+ #i , and #l , 
+define useful terms for programmers.
+ 
+Finally, the command set sw=4 sets the shift width 
+(the number of characters
+text is moved sideways for the shift command 
+( &lt;&lt; and &gt;&gt; )).
+ 
+This is very useful if you use a 4 space indentation for your C or C++
+programs. (Studies at Rice University have shown this to be the best
+indentation size.)
+ 
+ Reading a man page 
+ 
+You can use the Vim editor to browse through text files. One of the most
+useful set of files to browse through is the man pages. To do this
+we assemble a pipeline of three command.
+ 
+The first is man which gets the page. The next one, ul 
+turns the underline and bold escape codes into something readable, and 
+finally we use Vim to broswe the file.
+ 
+So our command is:
+ 
+ 
+$ man subject | ul -i | vim -
+ 
+ 
+ 
+The man page will be generated and then displayed in the Vim 
+window. You can now use your normal editing commands to browse the
+files.
+ 
+ Removing carriage returns from MS-DOS file 
+ 
+If you ever try to edit a MS-DOS file, you'll notice that each line
+ends with a ^M character. This is caused by the funny
+way that MS-DOS treats the end-of-line. 
+(For some background on this problem take a look at 
+ The EOL Story .
+ 
+To remove the ^M characters from a MS-DOS file, enter the command:
+ 
+	 :1,$s/{Ctrl+V}{Ctrl+M}//{Enter} 
+ 
+This command starts with a colon ( : ) to
+tell Vim to enter ex mode. All ex 
+start with a line number range, in this case its from
+the first line (1) to the last ($). The slash indicates
+the start of the "from text". The {Ctrl+V} tells Vim 
+to treat the next character as a regular character even
+if it's a special one.	The next character is {Ctrl+M} .
+(This would be treated as {Enter} without the 
+ {Ctrl+V} .)
+The next slash ends the "from text". What follows is the
+"to text" enclosed by slashes.	In this case it's nothing
+( // ). 
+ 
+ Trimming the blanks off an end of line 
+Some people find spaces and
+tabs at the end of a line useless, wasteful, and ugly.
+To remove whitespace at the end of every line, execute
+the command: 
+ 
+	 :1,$s/[ &lt;tab&gt;]*$// 
+ 
+ 
+The colon
+(:) tells Vim to enter ex command mode. All
+ ex commands start with a line range, in this case,
+the entire file (line 1 to the last line: $). 
+ 
+The
+first set of slashes enclose the "from text". The square
+brackets indicate that either character can be a match.
+So [ &lt;tab&gt;] matches either space or tab. The star
+( * ) means that the previous character specification
+(space or tab) can be repeated any of number times.
+The dollar ( $ indicates an end of line.	
+ 
+So [ &lt;tab&gt;]*$ 
+tells Vim to look for any number of spaces or tabs
+followed by an end of line. 
+ 
+These are then replaced by
+the text in the next set of slashes. This text is nothing,
+so the spaces and tabs are effectively removed. 
+ 
+ Oops, I left the file write protected 
+ 
+Say your editing a file and you've made a lot
+of changes. This is a very important file and to preserve
+it from any casual changes, you've write protected it,
+even against yourself.
+ 
+The Vim editor allows you
+to edit a write protected file with little or no warning.
+The only trouble is that when you try to exit using " ZZ "
+you get the error:
+ 
+ file.txt	File is read only
+ 
+ 
+and
+ Vim doesn't exit. 
+ 
+So what can you do? You don't
+want to throw away all those changes, but you need to get
+out of Vim so you can turn on write permission.
+ 
+The trick is to execute the :shell command. This command
+takes you out of Vim by starting a command processor
+(shell) running under Vim You can then write
+enable the file:
+ 
+	$ chmod u+w file.txt 
+ 
+and get out of the shell, returning to Vim 
+ 
+	$ exit 
+ 
+ 
+Finally you need to force Vim to write
+the file using the command:
+ 
+	 :w! 
+ 
+(It still thinks the file is write protected so we need to use
+the force option ( ! ) to convince it to try writing.)
+ 
+ Note: 
+ 
+It is
+a good idea to only spend as short a time as possible in
+a command processor started by the :shell command. That's
+because it's easy to forget that you're running under
+ Vim . It's possible to start a shell, that starts
+ Vim , that starts a shell, that starts Vim ,
+that .... Using this method you can easily consume a lot
+of resources and generate a lot of confusion.
+ 
+By keeping
+your :shell sessions short you can avoid lots of trouble.
+ 
+ Changing "Last, First" to "First Last" 
+ 
+You have a list of names in the form:
+ 
+	Last, First
+ 
+ 
+How to you change them to:
+ 
+	First Last
+ 
+It can be done with one command:
+ 
+  :1,$s/\([^,]*\), \(.*$\)/\2 \1/ 
+ 
+The colon ( : ) tells Vim 
+that this is an ex style command.
+ 
+The line range for this command is the whole file as indicated by
+the range 1,$ .	
+ 
+The s (substitute) tells Vim 
+to do a string substitution.
+ 
+The old text is a complex
+regular expression. The \( ... \) delimiters are used
+to inform the editor that the text that matches the
+regular expression side is to be treated special.
+ 
+The text in the first \( ... \) is assigned to 
+ \1 in the replacement text. 
+The second set of text inside \( ... \) is assigned 
+ \2 and so on.
+ 
+In this case the
+first regular expression is any bunch of characters that
+does not include a comma. The [^,] means anything but a
+comma, the * means a bunch (zero or more characters).
+ 
+The second expression matches anything: .* up to the end
+of line: $ .
+ 
+The result of this substitution is that
+the first word on the line is assigned to \1 and the
+second to \2 . These values are used in the end of the
+command to reverse the word.
+ 
+The figure below shows the
+relationship between the \( \) 
+enclosed strings and the \1 ,
+ \2 markers.
+ 
+	:1,$s/\([^,]*\), \(.*$\)/\2 \1/
+	  ^^  ^^ ^^ ^^^ ^ ^   
+	  ||  || || ||| | +----- String matched by 
+	  ||  || || ||| |   first \( \)
+	  ||  || || ||| +--------- String matched by
+	  ||  || || |||   second \( \)
+	  ||  || || ||+----------- Slash separating 
+	  ||  || || ||    old/new strings
+	  ||  || ++---++------------ Second \( \) 
+	  ++-----++--------------------- First \( \)
+ 
+ 
+The next figure 
+breaks out the various parts of the regular
+expressions used in this example.
+ 
+	:1,$s/\([^,]*\), \(.*$\)/\2 \1/
+		^^^^^ ^^ ^^^
+		||||| || ||+--- The end of the line
+		||||| || |+---- Repeated 0 or more time
+		||||| || +----- Any character
+		||||| || +++--- Any character, repeated,
+		||||| ||    followed by EOL
+		||||| |+-------- The character space
+		||||| +--------- The character comma
+		||||+------------ Repeated 0 or more times
+		|||+------------- Closes the [] expression
+		||+-------------- The character comma
+		|+--------------- Match anything except the
+		|     next character
+		+---------------- Starts a set of matches
+		++++------------- Match anything but comma
+		 +------------ Repeated 0 or more times
+		  +--------- Followed by comma
+ 
+ 
+ How to edit all the files containing a given word 
+ 
+This involves the fgrep 
+as well as the special shell character backtick ( ` ).
+ 
+To edit all the C program files that contain the word
+ indentation_level execute the command:
+ 
+ $ vim `fgrep -l indentation_level *.c` 
+ 
+ The fgrep -l indentation_level *.c 
+searches all the files ending with
+ .c for the word and lists them out.
+ 
+Since this command
+is enclosed in backtick ( ` ) characters the results of
+the command (a list of files) takes the place of the
+command on the command line. The Vim editor
+is then run on these files. The commands :n{Enter} and
+ :rew{Enter} can then be used to browse through the files.
+ How to edit all the files containing a given word using the built-in grep 
+ 
+Start Vim .
+ 
+Execute the command:
+ 
+ :grep &gt;word&lt; &gt;file-list&lt; 
+ 
+ 
+This finds the first location of word in the given files and
+positions the cursor on that line. You can use the command
+ :cn to find the next occurance.
+pa------------------------------------------van 
+8.3. Extracting data from HTML documents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ You are here: Home &gt; Dive Into Python &gt; HTML Processing &gt; Extracting data from HTML documents 
+  &lt;&lt;  &gt;&gt; 
+ 
+ 
+
+ 
+  
+
+
+ Dive Into Python 
+ Python from novice to pro 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ Find:   
+ 
+ Report issues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8.3. Extracting data from HTML documents
+     
+ 
+ 
+ 
+ 
+ 
+ To extract data from HTML documents, subclass the SGMLParser class and define methods for each tag or entity you want to capture.
+    
+ 
+ The first step to extracting data from an HTML document is getting some HTML . If you have some HTML lying around on your hard drive, you can use file functions to read it, but the real fun begins when you get HTML from live web pages.
+   
+ Example 8.5. Introducing urllib 
+ &gt;&gt;&gt; import urllib           
+ &gt;&gt;&gt; sock = urllib.urlopen( "http://diveintopython.org/" )  
+ &gt;&gt;&gt; htmlSource = sock.read()        
+ &gt;&gt;&gt; sock.close()           
+ &gt;&gt;&gt; print htmlSource          
+ &lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"&gt;&lt;html&gt;&lt;head&gt;
+  &lt;meta http-equiv='Content-Type' content='text/html; charset=ISO-8859-1'&gt;
+ &lt;title&gt;Dive Into Python&lt;/title&gt;
+&lt;link rel='stylesheet' href='diveintopython.css' type='text/css'&gt;
+&lt;link rev='made' href='mailto:mark@diveintopython.org'&gt;
+&lt;meta name='keywords' content='Python, Dive Into Python, tutorial, object-oriented, programming, documentation, book, free'&gt;
+&lt;meta name='description' content='a free Python tutorial for experienced programmers'&gt;
+&lt;/head&gt;
+&lt;body bgcolor='white' text='black' link='#0000FF' vlink='#840084' alink='#0000FF'&gt;
+&lt;table cellpadding='0' cellspacing='0' border='0' width='100%'&gt;
+&lt;tr&gt;&lt;td class='header' width='1%' valign='top'&gt;diveintopython.org&lt;/td&gt;
+&lt;td width='99%' align='right'&gt;&lt;hr size='1' noshade&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='tagline' colspan='2'&gt;Python&amp;nbsp;for&amp;nbsp;experienced&amp;nbsp;programmers&lt;/td&gt;&lt;/tr&gt; 
+
+[...snip...] 
+ 
+ 
+ 
+ 
+ The urllib module is part of the standard Python library. It contains functions for getting information about and actually retrieving data from Internet-based URL s (mainly web pages).
+      
+ 
+ 
+ 
+ 
+ The simplest use of urllib is to retrieve the entire text of a web page using the urlopen function. Opening a URL is similar to opening a file . The return value of urlopen is a file-like object, which has some of the same methods as a file object.
+      
+ 
+ 
+ 
+ 
+ The simplest thing to do with the file-like object returned by urlopen is read , which reads the entire HTML of the web page into a single string. The object also supports readlines , which reads the text line by line into a list.
+      
+ 
+ 
+ 
+ 
+ When you're done with the object, make sure to close it, just like a normal file object.
+      
+ 
+ 
+ 
+ 
+ You now have the complete HTML of the home page of http://diveintopython.org/ in a string, and you're ready to parse it.
+      
+ 
+ 
+ 
+ 
+ Example 8.6. Introducing urllister.py 
+ If you have not already done so, you can download this and other examples used in this book.
+    
+from sgmllib import SGMLParser
+
+ class URLLister (SGMLParser):
+  def reset (self):         
+  SGMLParser.reset(self)
+  self.urls = []
+
+  def start_a (self, attrs):      
+  href = [v for k, v in attrs if k== 'href' ]  
+   if href:
+   self.urls.extend(href) 
+ 
+ 
+ 
+ 
+ reset is called by the __init__ method of SGMLParser , and it can also be called manually once an instance of the parser has been created. So if you need to do any initialization,
+      do it in reset , not in __init__ , so that it will be re-initialized properly when someone re-uses a parser instance.
+      
+ 
+ 
+ 
+ 
+ start_a is called by SGMLParser whenever it finds an &lt;a&gt; tag. The tag may contain an href attribute, and/or other attributes, like name or title . The attrs parameter is a list of tuples, [( attribute , value ), ( attribute , value ), ...] . Or it may be just an &lt;a&gt; , a valid (if useless) HTML tag, in which case attrs would be an empty list.
+      
+ 
+ 
+ 
+ 
+ You can find out whether this &lt;a&gt; tag has an href attribute with a simple multi-variable list comprehension .
+      
+ 
+ 
+ 
+ 
+ String comparisons like k=='href' are always case-sensitive, but that's safe in this case, because SGMLParser converts attribute names to lowercase while building attrs .
+      
+ 
+ 
+ 
+ 
+ Example 8.7. Using urllister.py 
+ &gt;&gt;&gt; import urllib, urllister 
+ &gt;&gt;&gt; usock = urllib.urlopen( "http://diveintopython.org/" ) 
+ &gt;&gt;&gt; parser = urllister.URLLister() 
+ &gt;&gt;&gt; parser.feed(usock.read())    
+ &gt;&gt;&gt; usock.close()       
+ &gt;&gt;&gt; parser.close()      
+ &gt;&gt;&gt; for url in parser.urls: print url  
+ toc/index.html
+#download
+#languages
+toc/index.html
+appendix/history.html
+download/diveintopython-html-5.0.zip
+download/diveintopython-pdf-5.0.zip
+download/diveintopython-word-5.0.zip
+download/diveintopython-text-5.0.zip
+download/diveintopython-html-flat-5.0.zip
+download/diveintopython-xml-5.0.zip
+download/diveintopython-common-5.0.zip
+ 
+
+... rest of output omitted for brevity ... 
+ 
+ 
+ 
+ 
+ Call the feed method, defined in SGMLParser , to get HTML into the parser. [ 1 ] It takes a string, which is what usock.read() returns.
+      
+ 
+ 
+ 
+ 
+ Like files, you should close your URL objects as soon as you're done with them.
+      
+ 
+ 
+ 
+ 
+ You should close your parser object, too, but for a different reason. You've read all the data and fed it to the parser, but the feed method isn't guaranteed to have actually processed all the HTML you give it; it may buffer it, waiting for more. Be sure to call close to flush the buffer and force everything to be fully parsed.
+      
+ 
+ 
+ 
+ 
+ Once the parser is close d, the parsing is complete, and parser.urls contains a list of all the linked URL s in the HTML document. (Your output may look different, if the download links have been updated by the time you read this.)
+      
+ 
+ 
+ 
+ 
+ 
+ Footnotes 
+ 
+ [ 1 ] The technical term for a parser like SGMLParser is a consumer : it consumes HTML and breaks it down. Presumably, the name feed was chosen to fit into the whole &#8220; consumer &#8221; motif. Personally, it makes me think of an exhibit in the zoo where there's just a dark cage with no trees or plants or
+     evidence of life of any kind, but if you stand perfectly still and look really closely you can make out two beady eyes staring
+     back at you from the far left corner, but you convince yourself that that's just your mind playing tricks on you, and the
+     only way you can tell that the whole thing isn't just an empty cage is a small innocuous sign on the railing that reads, &#8220; Do not feed the parser. &#8221; But maybe that's just me. In any event, it's an interesting mental image.
+    
+ 
+ 
+ 
+ 
+ 
+ &lt;&lt; Introducing sgmllib.py 
+ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 
+    
+ Introducing BaseHTMLProcessor.py &gt;&gt; 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Report issues 
+ Copyright &copy; 2000, 2001, 2002, 2003, 2004 Mark Pilgrim
+pa------------------------------------------van 
+Algorithm Problem Set Analysis - TopCoder Wiki 
+    
+  
+  
+ 
+
+        
+   
+ 
+
+  
+   
+ 
+
+   
+
+  
+  
+  
+  
+ 
+
+      
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+   
+   
+   
+   
+   
+   
+   
+
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+
+ 
+
+
+  
+
+
+ 
+ 
+  
+   
+  
+ 
+ 
+
+ 
+Member Count: 592,251 - 
+
+
+November 26, 2013
+
+ [Get Time] 
+ 
+
+ 
+  
+  
+     Login 
+   
+  
+  
+ 
+
+
+ 
+ 
+  
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ Competitions 
+ 
+ Overview 
+ 
+ Reliability 
+ Ratings 
+ Badges 
+ How to Get Paid 
+ Administrative Overview 
+ 
+ Copilot Opportunities 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ Documentation 
+ Tutorial 
+ 
+ Active Contests 
+ Past Contests 
+ Copilot Pool 
+ 
+ Design 
+ 
+ Studio 
+ Conceptualization 
+ 
+ Overview 
+ Track Information 
+ 
+ Tutorial 
+ Documentation 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Specification 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Architecture 
+ 
+ Overview 
+ Track Information 
+ 
+ Module Architecture Tutorial 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Component Design 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ Documentation 
+ Recent Color Changes 
+ Data Feeds 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ 
+ Development 
+ 
+ Component Development 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ Documentation 
+ Recent Color Changes 
+ Data Feeds 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Assembly 
+ 
+ Overview 
+ Track Information 
+ 
+ Tutorials 
+ Documentation 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Test Suites 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ Tutorial 
+ Documentation 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Reporting 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ Tutorial 
+ Documentation 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ 
+ UI Development 
+ 
+ UI Prototype 
+ 
+ Overview 
+ Track Information 
+ 
+ UI Prototype Tutorial 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ RIA Build 
+ 
+ Overview 
+ Track Information 
+ 
+ RIA Build Tutorial 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Content Creation 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ 
+ QA and Maintenance 
+ 
+ Test Scenarios 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ Tutorial 
+ Documentation 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ Bug Race 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ 
+ Active Contests 
+ Review Opportunities 
+ 
+ Bug Hunt 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ Meet the Review Board 
+ 
+ 
+ CloudSpokes 
+ 
+ Overview 
+ Active Contests 
+ Contest Status 
+ Past Contests 
+ Review Opportunities 
+ 
+ Algorithm 
+ 
+ Single Round Matches (SRM) 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ FAQs 
+ Rating System 
+ Write Problems 
+ 
+ Statistics 
+ 
+ Match Archive 
+ Match Overviews 
+ Match Winners 
+ Match Results 
+ Match Editorials 
+ Problem Archive 
+ Recent Color Changes 
+ Data Feeds 
+ 
+ Launch Arena 
+ 
+ Marathon Match 
+ 
+ Overview 
+ Track Information 
+ 
+ How to Compete 
+ Rating System 
+ 
+ Statistics 
+ 
+ Match Archive 
+ Match Overview 
+ Match Winners 
+ Match Editorials 
+ Data Feeds 
+ 
+ Active Contests 
+ Practice 
+ Queue Status 
+ 
+ 
+ High School 
+ 
+ Overview 
+ Statistics 
+ 
+ Match Overview 
+ Match Results (Team) 
+ Match Results (Indiv.) 
+ Match Editorials 
+ Recent Color Changes 
+ Data Feeds 
+ 
+ Spotlight Sessions 
+ Launch Arena 
+ 
+ The Digital Run 
+ Submit &amp; Review 
+ 
+ TopCoder Networks 
+ 
+ Alcatel Lucent 
+ AMD OpenCL 
+ DARPA CS-STEM 
+ Life Technologies 
+ NASA Tournament Lab 
+ PayPalX 
+ 
+ Events 
+ 
+ Event Calendar 
+ Tournaments 
+ 
+ TopCoder 
+ Powered by TopCoder 
+ Charity 
+ 
+ 
+ Statistics 
+ 
+ The Tops 
+ 
+ Top Ranked 
+ 
+ Algorithm 
+ High School 
+ Marathon Match 
+ Conceptualization 
+ Specification 
+ Architecture 
+ Design 
+ Development 
+ Assembly 
+ Test Suites 
+ 
+ Record Book 
+ 
+ Algorithm 
+ Component 
+ Marathon Match 
+ 
+ Coder of the Month 
+ 
+ Algorithm 
+ Design 
+ Development 
+ 
+ 
+ 
+ Tutorials 
+ 
+ Overview 
+ Algorithm Tutorials 
+ Software Tutorials 
+ Marathon Tutorials 
+ Wiki 
+ 
+ Forums 
+ Surveys 
+ My TopCoder 
+ Help Center 
+ About TopCoder 
+ 
+ Overview 
+ Why Join TopCoder? 
+ Working at TopCoder 
+ Leadership 
+ Press Room 
+ 
+
+  
+  
+   
+
+  
+  
+  
+  
+  
+ 
+
+ 
+ Member Search: 
+ 
+ 
+ 
+ Go 
+ Advanced Search 
+ 
+ 
+ 
+ 
+
+
+  
+   
+  
+
+
+   
+   
+
+
+ 
+
+  
+
+  
+
+     
+    
+        
+ 
+              Dashboard 
+          &gt;       TopCoder Competitions 
+              
+     &gt;
+      
+       ... 
+      
+      
+         Home 
+     &gt;      Other Competitions 
+   
+     
+                        &gt;       Algorithm Overview 
+          &gt;       Algorithm Problem Set Analysis 
+    
+  
+    
+
+    
+      
+   
+  
+   
+   
+   
+  
+    
+   
+  
+     
+    
+    
+     
+                                     
+          TopCoder Competitions  
+      
+      
+             
+  
+    
+       
+         
+
+              
+                     
+      
+     
+     
+      
+       
+          Algorithm Problem Set Analysis
+        
+      
+     
+    
+    
+   
+    
+
+  
+
+
+
+
+ 
+ 
+
+
+ 
+ 
+  
+ 
+ 
+ 
+
+  
+   
+    
+     
+						
+  
+  
+  
+      Browse Space 
+		 				 
+
+				 
+											 V iew 
+											 A ttachments (0) 
+											 I nfo 
+									 
+    
+   
+  
+  
+   
+
+       
+     
+      
+
+     
+     
+     
+             
+        
+         
+          
+           
+              Added by    mike
+, last edited by    vexorian
+ on Nov 24, 2013
+      ( view change )
+    
+           
+ 
+
+
+
+
+
+
+
+ 
+ 
+  Labels: 
+  
+   
+     (None)
+     
+    
+   
+   
+
+    
+
+   
+    
+     
+      Add Labels 
+     
+      
+    
+    
+     Enter labels to add to this page: 
+   
+   
+   
+   
+    Tip: Looking for a label? Just start typing.
+   
+   
+    
+     
+    
+   
+   
+  
+ 
+ 
+           
+          
+          
+                    
+         
+        
+
+              
+        
+           
+
+ 
+ 
+ 
+ 
+
+ 
+Editorials for all rounds starting from SRM 467 can be edited by any TopCoder member. It can be language correction, wording improvement or additional explanation in some parts, your additional comments, description of alternative solutions, etc. If you want to improve the wording of editorial writer or correct some language error, please feel free to put your change over the original text. And if you wish to add a comment or describe another approach, there's a section for this at the bottom of each problem.
+ 
+
+ 
+Before editing, please be sure to check the following guidelines .
+ 
+
+ 
+If you see that you occasionally broken the page formatting, you can use page history page (like this ) to restore the latest proper version. If you don't see how to do that, please contact admins (contest@topcoder.com).
+ 
+
+ 
+  Match Editorial Archive - 2013 
+
+   
+
+  
+
+ 
+ November 
+  
+
+ 
+  11.20.13 
+  SRM 597 - Problem Set & Analysis 
+ 
+
+
+
+ 
+  11.13.13 
+  TCO 2013 Finals - Problem Set & Analysis 
+ 
+
+
+ 
+  11.12.13 
+  TCO 2013 Wildcard - Problem Set & Analysis 
+ 
+ 
+  11.12.13 
+  TCO 2013 Semifinal 2 - Problem Set & Analysis 
+ 
+ 
+  11.12.13 
+  TCO 2013 Semifinal 1 - Problem Set & Analysis 
+ 
+
+
+ 
+  11.01.13 
+  SRM 596 - Problem Set & Analysis 
+ 
+
+
+
+ 
+ October 
+  
+
+ 
+  10.24.13 
+  SRM 595 - Problem Set & Analysis 
+ 
+
+
+ 
+  10.15.13 
+  SRM 594 - Problem Set & Analysis 
+ 
+
+
+ 
+  10.05.13 
+  SRM 593 - Problem Set & Analysis 
+ 
+
+
+
+ 
+ September 
+  
+
+ 
+  09.27.13 
+  SRM 592 - Problem Set & Analysis 
+ 
+
+
+
+ 
+  09.16.13 
+  SRM 591 - Problem Set & Analysis 
+ 
+
+
+ 
+  09.07.13 
+  SRM 590 - Problem Set & Analysis 
+ 
+
+
+ 
+ August 
+  
+
+ 
+  08.27.13 
+  SRM 589 - Problem Set & Analysis 
+ 
+
+
+ 
+  08.12.13 
+  SRM 588 - Problem Set & Analysis 
+ 
+
+
+ 
+  08.01.13 
+  SRM 587 - Problem Set & Analysis 
+ 
+
+ 
+ July 
+  
+
+ 
+  07.28.13 
+  SRM 586 - Problem Set & Analysis 
+ 
+
+
+ 
+  07.19.13 
+  SRM 585 - Problem Set & Analysis 
+ 
+
+
+ 
+  07.10.13 
+  SRM 584 - Problem Set & Analysis 
+ 
+
+
+ 
+ June 
+  
+
+ 
+  06.22.13 
+  TCO 2013 Round 3B - Problem Set & Analysis 
+ 
+
+ 
+  06.18.13 
+  SRM 583 - Problem Set & Analysis 
+ 
+
+
+ 
+  06.08.13 
+  TCO 2013 Round 3A - Problem Set & Analysis 
+ 
+
+
+ 
+  06.03.13 
+  SRM 581 - Problem Set & Analysis 
+ 
+
+
+ 
+ May 
+  
+
+
+
+ 
+  05.25.13 
+  SRM 580 - Problem Set & Analysis 
+ 
+
+ 
+  05.18.13 
+  SRM 579 - Problem Set & Analysis 
+ 
+
+ 
+  05.11.13 
+  TCO 2013 Round 2C - Problem Set & Analysis 
+ 
+
+ 
+  05.02.13 
+  SRM 578 - Problem Set & Analysis 
+ 
+
+ 
+ April 
+  
+
+ 
+  04.26.13 
+  SRM 577 - Problem Set & Analysis 
+ 
+
+ 
+  04.20.13 
+  TCO 2013 Round 2B - Problem Set & Analysis 
+ 
+
+ 
+  04.11.13 
+  SRM 576 - Problem Set & Analysis 
+ 
+
+ 
+  04.06.13 
+  SRM 575 - Problem Set & Analysis 
+ 
+
+ 
+ March 
+  
+
+ 
+  03.30.13 
+  TCO 2013 Round 2A - Problem Set & Analysis 
+ 
+
+ 
+  03.25.13 
+  SRM 574 - Problem Set & Analysis 
+ 
+
+ 
+  03.14.13 
+  SRM 573 - Problem Set & Analysis 
+ 
+
+ 
+  03.09.13 
+  TCO 2013 Round 1C - Problem Set & Analysis 
+ 
+
+ 
+  03.06.13 
+  SRM 572 - Problem Set & Analysis 
+ 
+
+ 
+  03.02.13 
+  TCO 2013 Round 1B - Problem Set & Analysis 
+ 
+
+ 
+ February 
+  
+
+ 
+  02.23.13 
+  TCO 2013 Round 1A - Problem Set & Analysis 
+ 
+
+ 
+  02.19.13 
+  SRM 571 - Problem Set & Analysis 
+ 
+
+ 
+  02.13.13 
+  SRM 570 - Problem Set & Analysis 
+ 
+
+ 
+  02.06.13 
+  SRM 569 - Problem Set & Analysis 
+ 
+
+ 
+ January 
+  
+
+ 
+  01.29.13 
+  SRM 568 - Problem Set & Analysis 
+ 
+
+ 
+  01.21.13 
+  SRM 567 - Problem Set & Analysis 
+ 
+
+ 
+  01.12.13 
+  SRM 566 - Problem Set & Analysis 
+ 
+
+   
+
+  Match Editorial Archive - 2012 
+
+   
+
+  
+
+
+ 
+ December 
+  
+
+ 
+  12.20.12 
+  SRM 565 - Problem Set & Analysis 
+ 
+
+ 
+  12.12.12 
+  SRM 564 - Problem Set & Analysis 
+ 
+
+ 
+  12.08.12 
+  SRM 563 - Problem Set & Analysis 
+ 
+
+ 
+ November 
+  
+
+ 
+  11.30.12 
+  SRM 562 - Problem Set & Analysis 
+ 
+
+ 
+  11.20.12 
+  SRM 561 - Problem Set & Analysis 
+ 
+
+
+ 
+  11.10.12 
+  SRM 560 - Problem Set & Analysis 
+ 
+
+  
+ October 
+  
+
+ 
+  10.30.12 
+  SRM 559 - Problem Set & Analysis 
+ 
+
+ 
+  10.19.12 
+  SRM 558 - Problem Set & Analysis 
+ 
+
+ 
+  10.10.12 
+  SRM 557 - Problem Set & Analysis 
+ 
+
+  
+ September 
+  
+
+ 
+  9.16.12 
+  SRM 556 - Problem Set & Analysis 
+ 
+
+ 
+  9.07.12 
+  SRM 555 - Problem Set & Analysis 
+ 
+
+ 
+  9.01.12 
+  SRM 554 - Problem Set & Analysis 
+ 
+
+  
+ August 
+  
+
+ 
+  8.22.12 
+  SRM 553 - Problem Set & Analysis 
+ 
+
+ 
+  8.16.12 
+  SRM 552 - Problem Set & Analysis 
+ 
+
+ 
+  8.04.12 
+  SRM 551 - Problem Set & Analysis 
+ 
+
+  
+ July 
+  
+
+ 
+  7.21.12 
+  SRM 550 - Problem Set & Analysis 
+ 
+
+ 
+  7.10.12 
+  SRM 549 - Problem Set & Analysis 
+ 
+
+ 
+  7.07.12 
+  TCO 2012 Round 3B - Problem Set & Analysis 
+ 
+
+ 
+  7.02.12 
+  SRM 548 - Problem Set & Analysis 
+ 
+
+  
+ June 
+  
+
+ 
+  6.25.12 
+  SRM 547 - Problem Set & Analysis 
+ 
+
+ 
+  6.23.12 
+  TCO 2012 Round 3A - Problem Set & Analysis 
+ 
+
+ 
+  6.16.12 
+  SRM 546 - Problem Set & Analysis 
+ 
+
+ 
+  6.07.12 
+  SRM 545 - Problem Set & Analysis 
+ 
+
+ 
+  6.02.12 
+  TCO 2012 Round 2C - Problem Set & Analysis 
+ 
+
+  
+ May 
+  
+
+ 
+  5.29.12 
+  SRM 544 - Problem Set & Analysis 
+ 
+
+ 
+  5.19.12 
+  SRM 543 - Problem Set & Analysis 
+ 
+
+ 
+  5.12.12 
+  TCO 2012 Round 2B - Problem Set & Analysis 
+ 
+
+ 
+  5.08.12 
+  SRM 542 - Problem Set & Analysis 
+ 
+
+  
+ April 
+  
+
+ 
+  4.23.12 
+  SRM 541 - Problem Set & Analysis 
+ 
+
+ 
+  4.21.12 
+  TCO 2012 Round 2A - Problem Set & Analysis 
+ 
+
+ 
+  4.14.12 
+  TCO 2012 Round 1C - Problem Set & Analysis 
+ 
+
+ 
+  4.11.12 
+  SRM 540 - Problem Set & Analysis 
+ 
+
+ 
+  4.07.12 
+  TCO 2012 Round 1B - Problem Set & Analysis 
+ 
+
+ 
+  4.04.12 
+  SRM 539 - Problem Set & Analysis 
+ 
+
+  
+ March 
+  
+
+ 
+  3.31.12 
+  TCO 2012 Round 1A - Problem Set & Analysis 
+ 
+
+ 
+  3.20.12 
+  SRM 538 - Problem Set & Analysis 
+ 
+
+ 
+  3.17.12 
+  SRM 537 - Problem Set & Analysis 
+ 
+
+ 
+  3.07.12 
+  SRM 536 - Problem Set & Analysis 
+ 
+
+ 
+  3.03.12 
+  SRM 535 - Problem Set & Analysis 
+ 
+
+  
+ February 
+  
+
+ 
+  2.23.12 
+  SRM 534 - Problem Set & Analysis 
+ 
+
+ 
+  2.18.12 
+  SRM 533 - Problem Set & Analysis 
+ 
+
+ 
+  2.09.12 
+  SRM 532 - Problem Set & Analysis 
+ 
+
+  
+ January 
+  
+
+ 
+  1.31.12 
+  SRM 531 - Problem Set & Analysis 
+ 
+
+ 
+  1.19.12 
+  SRM 530 - Problem Set & Analysis 
+ 
+
+ 
+  1.14.12 
+  SRM 529 - Problem Set & Analysis 
+ 
+
+   
+
+  Match Editorial Archive - 2011 
+
+   
+
+  
+ December 
+  
+
+ 
+  12.28.11 
+  SRM 528 - Problem Set & Analysis 
+ 
+
+ 
+  12.23.11 
+  SRM 526.5 - Problem Set & Analysis 
+ 
+
+ 
+  12.17.11 
+  SRM 527 - Problem Set & Analysis 
+ 
+
+ 
+  12.06.11 
+  SRM 526 - Problem Set & Analysis 
+ 
+
+  
+ November 
+  
+
+ 
+  11.29.11 
+  SRM 525 - Problem Set & Analysis 
+ 
+
+ 
+  11.17.11 
+  SRM 524 - Problem Set & Analysis 
+ 
+
+ 
+  11.12.11 
+  SRM 523 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ October 
+  
+
+ 
+  10.25.11 
+  SRM 522 - Problem Set & Analysis 
+ 
+
+ 
+  10.13.11 
+  SRM 521 - Problem Set & Analysis 
+ 
+
+ 
+  10.04.11 
+  SRM 520 - Problem Set & Analysis 
+ 
+
+  
+
+  
+ September 
+  
+
+ 
+  09.19.11 
+  SRM 519 - Problem Set & Analysis 
+ 
+
+ 
+  09.14.11 
+  SRM 518 - Problem Set & Analysis 
+ 
+
+ 
+  09.10.11 
+  SRM 517 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ August 
+  
+
+ 
+  08.30.11 
+  SRM 516 - Problem Set & Analysis 
+ 
+
+ 
+  08.20.11 
+  SRM 515 - Problem Set & Analysis 
+ 
+
+ 
+  08.09.11 
+  SRM 514 - Problem Set & Analysis 
+ 
+
+ 
+  08.06.11 
+  TCO'11 Online Round 5 - Problem Set & Analysis 
+ 
+
+
+   
+
+  
+ July 
+  
+
+ 
+  07.26.11 
+  SRM 513 - Problem Set & Analysis 
+ 
+
+ 
+  07.23.11 
+  TCO'11 Online Round 4 - Problem Set & Analysis 
+ 
+
+ 
+  07.13.11 
+  SRM 512 - Problem Set & Analysis 
+ 
+
+ 
+  07.09.11 
+  TCO'11 Online Round 3 - Problem Set & Analysis 
+ 
+
+ 
+  07.02.11 
+  SRM 511 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ June 
+  
+
+ 
+  06.25.11 
+  TCO'11 Online Round 2 - Problem Set & Analysis 
+ 
+
+ 
+  06.21.11 
+  SRM 510 - Problem Set & Analysis 
+ 
+
+ 
+  06.18.11 
+  TCO'11 Online Round 1 - Problem Set & Analysis 
+ 
+
+ 
+  06.08.11 
+  SRM 509 - Problem Set & Analysis 
+ 
+
+ 
+  06.02.11 
+  SRM 508 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ May 
+  
+
+ 
+  05.28.11 
+  SRM 507 - Problem Set & Analysis 
+ 
+
+ 
+  05.24.11 
+  TCO'11 Qualification Round 3 - Problem Set & Analysis 
+ 
+
+ 
+  05.19.11 
+  TCO'11 Qualification Round 2 - Problem Set & Analysis 
+ 
+
+ 
+  05.17.11 
+  SRM 504.5 - Problem Set & Analysis 
+ 
+
+ 
+  05.14.11 
+  TCO'11 Qualification Round 1 - Problem Set & Analysis 
+ 
+
+ 
+  05.11.11 
+  SRM 506 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ April 
+  
+
+ 
+  04.26.11 
+  SRM 504 - Problem Set & Analysis 
+ 
+
+ 
+  04.16.11 
+  Member SRM 503 - Problem Set & Analysis 
+ 
+
+ 
+  04.07.11 
+  SRM 502 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ March 
+  
+
+ 
+  03.19.11 
+  SRM 500 - Problem Set & Analysis 
+ 
+
+ 
+  03.08.11 
+  SRM 499 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ February 
+  
+
+ 
+  02.26.11 
+  SRM 498 - Problem Set & Analysis 
+ 
+ 
+  02.10.11 
+  SRM 497 - Problem Set & Analysis 
+ 
+ 
+  02.01.11 
+  SRM 496 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ January 
+  
+
+ 
+  01.27.11 
+  SRM 495 - Problem Set & Analysis 
+ 
+
+ 
+  01.12.11 
+  SRM 493 - Problem Set & Analysis 
+ 
+
+   
+
+  Match Editorial Archive - 2010 
+
+   
+
+  
+ December 
+  
+
+ 
+  12.28.10 
+  SRM 492 - Problem Set & Analysis 
+ 
+
+ 
+  12.08.10 
+  SRM 490 - Problem Set & Analysis 
+ 
+
+ 
+   
+
+  
+ November 
+  
+
+ 
+  11.18.10 
+  SRM 488 - Problem Set & Analysis 
+ 
+
+ 
+  11.13.10 
+  SRM 487 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ October 
+  
+
+ 
+  10.27.10 
+  SRM 486 - Problem Set & Analysis 
+ 
+
+ 
+  10.14.10 
+  TCO'10 Championship Round - Problem Set & Analysis 
+ 
+
+ 
+  10.13.10 
+  TCO'10 Wildcard Round - Problem Set & Analysis 
+ 
+
+ 
+  10.13.10 
+  TCO'10 Semifinal 2 - Problem Set & Analysis 
+ 
+
+ 
+  10.13.10 
+  TCO'10 Semifinal 1 - Problem Set & Analysis 
+ 
+
+ 
+  10.05.10 
+  SRM 484 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ September 
+  
+
+ 
+  09.25.10 
+  SRM 483 - Problem Set & Analysis 
+ 
+
+ 
+  09.09.10 
+  SRM 481 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ August 
+  
+
+ 
+  08.26.10 
+  SRM 480 - Problem Set & Analysis 
+ 
+
+ 
+  08.14.10 
+  SRM 479 - Problem Set & Analysis 
+ 
+
+ 
+  08.07.10 
+  TCO'10 Online Round 5 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ July 
+  
+
+ 
+  07.28.10 
+  SRM 477 - Problem Set & Analysis 
+ 
+
+ 
+  07.24.10 
+  TCO'10 Online Round 4 - Problem Set & Analysis 
+ 
+
+ 
+  07.17.10 
+  SRM 476 - Problem Set & Analysis 
+ 
+
+ 
+  07.10.10 
+  TCO'10 Online Round 3 - Problem Set & Analysis 
+ 
+
+ 
+  07.06.10 
+  SRM 475 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ June 
+  
+
+ 
+  06.26.10 
+  TCO'10 Online Round 2 - Problem Set & Analysis 
+ 
+
+ 
+  06.19.10 
+  TCO'10 Online Round 1 - Problem Set & Analysis 
+ 
+
+ 
+  06.17.10 
+  SRM 473 - Problem Set & Analysis 
+ 
+
+ 
+  06.05.10 
+  SRM 472 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ May 
+  
+
+ 
+  05.24.10 
+  TCO'10 Qualification Round 3 - Problem Set & Analysis 
+ 
+
+ 
+  05.20.10 
+  SRM 470 - Problem Set & Analysis 
+ 
+
+ 
+  05.12.10 
+  TCO'10 Qualification Round 2 - Problem Set & Analysis 
+ 
+
+ 
+  05.04.10 
+  SRM 469 - Problem Set & Analysis 
+ 
+
+ 
+  05.02.10 
+  TCO'10 Qualification Round 1 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ April 
+  
+
+ 
+  04.20.10 
+  Member SRM 468 - Problem Set & Analysis 
+ 
+
+ 
+  04.15.10 
+  SRM 467 - Problem Set & Analysis 
+ 
+
+ 
+  04.03.10 
+  SRM 466 - Problem Set & Analysis 
+ 
+
+
+   
+
+  
+ March 
+  
+
+ 
+  03.25.10 
+  Member SRM 465 - Problem Set & Analysis 
+ 
+
+ 
+  03.16.10 
+  SRM 464 - Problem Set & Analysis 
+ 
+
+ 
+  03.02.10 
+  SRM 463 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ February 
+  
+
+ 
+  02.17.10 
+  SRM 462 - Problem Set & Analysis 
+ 
+
+ 
+  02.13.10 
+  Member SRM 461 - Problem Set & Analysis 
+ 
+
+ 
+  02.06.10 
+  SRM 460 - Problem Set & Analysis 
+ 
+
+   
+
+  
+ January 
+  
+
+ 
+  01.19.10 
+  SRM 459 - Problem Set & Analysis 
+ 
+
+ 
+  01.14.10 
+  Member SRM 458 - Problem Set & Analysis 
+ 
+
+ 
+  01.04.10 
+  SRM 457 - Problem Set & Analysis 
+ 
+
+   
+
+  Match Editorial Archive - 2009 
+
+   
+
+ 
+  
+ December 
+ 
+ 
+
+ 
+  12.22.09 
+
+  SRM 456 - Problem Set & Analysis 
+ 
+
+ 
+  12.17.09 
+
+  Member SRM 455 - Problem Set & Analysis (incomplete) 
+ 
+
+
+ 
+  12.05.09 
+
+  SRM 454 - Problem Set & Analysis 
+ 
+
+   
+
+ 
+  
+ November 
+ 
+ 
+
+ 
+  11.25.09 
+
+  SRM 453.5 - Problem Set & Analysis 
+ 
+
+ 
+  11.17.09 
+
+  SRM 453 - Problem Set & Analysis 
+ 
+
+ 
+  11.05.09 
+
+  SRM 452 - Problem Set & Analysis 
+ 
+
+   
+
+ 
+  
+ October 
+ 
+ 
+
+ 
+  10.20.09 
+
+  SRM 451 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  10.17.09 
+
+  SRM 450 - Problem Set & Analysis (incomplete) 
+ 
+
+   
+
+ 
+  
+ September 
+ 
+ 
+
+ 
+  09.23.09 
+
+  SRM 449 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  09.10.09 
+
+  SRM 448 - Problem Set & Analysis (incomplete) 
+ 
+
+   
+
+ 
+  
+ August 
+ 
+ 
+
+ 
+  08.25.09 
+
+  SRM 447 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  08.08.09 
+
+  SRM 446 - Problem Set & Analysis (incomplete) 
+ 
+
+   
+
+ 
+  
+ July 
+ 
+ 
+
+ 
+  07.23.09 
+
+  SRM 445 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  07.08.09 
+
+  SRM 444 - Problem Set & Analysis (incomplete) 
+ 
+
+   
+
+ 
+  
+ June 
+ 
+ 
+
+ 
+  06.23.09 
+
+  SRM 443 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  06.13.09 
+
+  SRM 442 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  06.04.09 
+
+  TCO'09 Championship Round - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  06.03.09 
+
+  TCO'09 Semifinal Round - Problem Set & Analysis (incomplete) 
+ 
+
+   
+
+ 
+  
+ May 
+ 
+ 
+
+ 
+  05.27.09 
+
+  SRM 441 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  05.12.09 
+
+  SRM 440 - Problem Set & Analysis (incomplete) 
+ 
+
+   
+
+ 
+  
+ April 
+ 
+ 
+
+ 
+  04.30.09 
+
+  SRM 439 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  04.19.09 
+
+  SRM 438 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  04.04.09 
+
+  TCO'09 Elimination Round 5 - Problem Set & Analysis (incomplete) 
+ 
+
+   
+
+ 
+  
+ March 
+ 
+ 
+
+ 
+  03.28.09 
+
+  TCO'09 Elimination Round 4 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  03.24.09 
+
+  SRM 437 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  03.21.09 
+
+  TCO'09 Elimination Round 3 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  03.14.09 
+
+  TCO'09 Elimination Round 2 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  03.11.09 
+
+  SRM 436 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  03.07.09 
+
+  TCO'09 Elimination Round 1 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  03.04.09 
+
+  TCO'09 Qualification Round 3 - Problem Set & Analysis (incomplete) 
+ 
+
+  
+
+ 
+  
+ February 
+ 
+ 
+
+
+ 
+  02.28.09 
+
+  TCO'09 Qualification Round 2 - Problem Set & Analysis (incomplete) 
+ 
+
+ 
+  02.24.09 
+
+  TCO'09 Qualification Round 1 - Problem Set & Analysis 
+ 
+
+ 
+  02.12.09 
+
+  SRM 435 - Problem Set & Analysis 
+ 
+
+ 
+  02.07.09 
+
+  SRM 434 - Problem Set & Analysis 
+ 
+
+  
+
+ 
+  
+ January 
+ 
+ 
+ 
+  
+  01.21.09 
+
+  SRM 433 - Problem Set & Analysis 
+ 
+ 
+  01.06.09 
+  SRM 432 - Problem Set & Analysis 
+
+ 
+   
+
+  Match Editorial Archive - 2008 
+
+   
+
+  
+ December 
+  
+ 
+  12.23.08 
+  SRM 431 - Problem Set & Analysis 
+
+ 
+ 
+  12.20.08 
+  SRM 430 - Problem Set & Analysis 
+ 
+ 
+
+  12.11.08 
+  SRM 429 - Problem Set & Analysis 
+ 
+ 
+  12.02.08 
+ SRM 428 - Problem Set & Analysis 
+
+ 
+ 
+   
+  
+
+ November 
+  
+ 
+  11.27.08 
+
+ SRM 427 - Problem Set & Analysis 
+ 
+ 
+  11.22.08 
+ SRM 426 - Problem Set & Analysis 
+
+ 
+ 
+  11.12.08 
+  SRM 425 - Problem Set & Analysis 
+ 
+  11.06.08 SRM 424 - Problem Set & Analysis 
+
+   
+
+   
+  
+
+ October 
+  
+  10.28.08 SRM 423 - Problem Set & Analysis 
+
+  10.18.08 SRM 422 - Problem Set & Analysis 
+  10.08.08 SRM 421 - Problem Set & Analysis 
+  10.02.08 SRM 420 - Problem Set & Analysis 
+
+   
+
+   
+  
+ September 
+  
+  09.24.08 SRM 419 - Problem Set & Analysis 
+
+  09.20.08 SRM 418 - Problem Set & Analysis 
+  09.11.08 SRM 417 - Problem Set & Analysis 
+  09.04.08 SRM 416 - Problem Set & Analysis 
+
+   
+
+   
+  
+ August 
+  
+  08.26.08 SRM 415 - Problem Set & Analysis 
+
+  08.16.08 SRM 414 - Problem Set & Analysis 
+  08.06.08 SRM 413 - Problem Set & Analysis 
+   
+
+   
+
+  
+ July 
+  
+  07.31.08 SRM 412 - Problem Set & Analysis 
+  07.23.08 SRM 411 - Problem Set & Analysis 
+
+  07.19.08 SRM 410 - Problem Set & Analysis 
+  07.10.08 SRM 409 - Problem Set & Analysis 
+  07.01.08 SRM 408 - Problem Set & Analysis 
+
+   
+
+   
+  
+ June 
+  
+  06.26.08 SRM 407 - Problem Set & Analysis 
+
+  06.17.08 SRM 406 - Problem Set & Analysis 
+  06.14.08 SRM 405 - Problem Set & Analysis 
+  06.05.08 SRM 404 - Problem Set & Analysis 
+
+   
+
+   
+  
+ May 
+  
+  05.28.08 SRM 403 - Problem Set & Analysis 
+
+  05.24.08 SRM 402 - Problem Set & Analysis 
+  05.06.08 SRM 401 - Problem Set & Analysis 
+  05.01.08 SRM 400 - Problem Set & Analysis 
+
+   
+
+   
+  
+ April 
+  
+  04.23.08 SRM 399 - Problem Set & Analysis 
+
+  04.15.08 SRM 398 - Problem Set & Analysis 
+  04.12.08 SRM 397 - Problem Set & Analysis 
+  04.03.08 SRM 396 - Problem Set & Analysis 
+
+   
+
+   
+  
+ March 
+  
+  03.26.08 SRM 395 - Problem Set & Analysis 
+
+  03.22.08 SRM 394 - Problem Set & Analysis 
+  03.11.08 SRM 393 - Problem Set & Analysis 
+  03.08.08 TCO08 - Online Round 4 - Problem Set & Analysis 
+
+  03.06.08 SRM 392 - Problem Set & Analysis 
+  03.01.08 TCO08 - Online Round 3 - Problem Set & Analysis 
+   
+
+   
+
+  
+ February 
+  
+  02.26.08 SRM 391 - Problem Set & Analysis 
+  02.23.08 TCO08 - Online Round 2 - Problem Set & Analysis 
+
+  02.16.08 TCO08 - Online Round 1 - Problem Set & Analysis 
+  02.13.08 TCO08 - Qualification Round 3 - Problem Set & Analysis 
+  02.09.08 TCO08 - Qualification Round 2 - Problem Set & Analysis 
+
+  02.05.08 TCO08 - Qualification Round 1 - Problem Set & Analysis 
+  02.02.08 SRM 390 - Problem Set & Analysis 
+   
+
+   
+
+  
+ January 
+  
+  01.24.08 SRM 389 - Problem Set & Analysis 
+  01.15.08 SRM 388 - Problem Set & Analysis 
+
+  01.09.08 SRM 387 - Problem Set & Analysis 
+  01.05.08 SRM 386 - Problem Set & Analysis 
+   
+
+  
+
+  Match Editorial Archive - 2007 
+
+   
+  
+ December 
+  
+  12.27.07 SRM 385 - Problem Set & Analysis 
+
+  12.19.07 SRM 384 - Problem Set & Analysis 
+  12.13.07 SRM 383 - Problem Set & Analysis 
+  12.11.07 SRM 382 - Problem Set & Analysis 
+
+  12.08.07 SRM 381 - Problem Set & Analysis 
+  12.04.07 SRM 380 - Problem Set & Analysis 
+
+   
+  
+
+ November 
+  
+  11.28.07 SRM 379 - Problem Set & Analysis 
+  11.20.07 SRM 378 - Problem Set & Analysis 
+
+  11.17.07 SRM 377 - Problem Set & Analysis 
+  11.14.07 SRM 376 - Problem Set & Analysis 
+  11.10.07 SRM 375 - Problem Set & Analysis 
+
+  11.06.07 SRM 374 - Problem Set & Analysis 
+  11.02.07 TCCC07 Finals - Problem Set & Analysis 
+  11.01.07 TCCC07 Wildcard - Problem Set & Analysis 
+
+  11.01.07 TCCC07 Room 3 - Problem Set & Analysis 
+
+   
+  
+ October 
+  
+  10.31.07 TCCC07 Room 2 - Problem Set & Analysis 
+
+  10.31.07 TCCC07 Room 1 - Problem Set & Analysis 
+  10.23.07 SRM 373 - Problem Set & Analysis 
+  10.17.07 SRM 372 - Problem Set & Analysis 
+
+  10.13.07 SRM 371 - Problem Set & Analysis 
+  10.09.07 SRM 370 - Problem Set & Analysis 
+  10.04.07 SRM 369 - Problem Set & Analysis 
+
+  10.02.07 SRM 368 - Problem Set & Analysis 
+
+   
+  
+ September 
+  
+  09.26.07 SRM 367 - Problem Set & Analysis 
+
+  09.22.07 TCCC07 - Algorithm Round 4 - Problem Set & Analysis 
+  09.18.07 SRM 366 - Problem Set & Analysis 
+  09.15.07 TCCC07 - Algorithm Round 3 - Problem Set & Analysis 
+
+  09.14.07 SRM 365 - Problem Set & Analysis 
+  09.08.07 TCCC07 - Algorithm Round 2 - Problem Set & Analysis 
+  09.04.07 SRM 364 - Problem Set & Analysis 
+
+  09.01.07 TCCC07 - Algorithm Round 1C - Problem Set & Analysis 
+
+   
+  
+ August 
+  
+  08.30.07 TCCC07 - Algorithm Round 1B - Problem Set & Analysis 
+
+  08.28.07 TCCC07 - Algorithm Round 1A - Problem Set & Analysis 
+  08.23.07 TCCC07 - Qualification Round 3 - Problem Set & Analysis 
+  08.21.07 TCCC07 - Qualification Round 2 - Problem Set & Analysis 
+
+  08.18.07 TCCC07 - Qualification Round 1 - Problem Set & Analysis 
+  08.11.07 SRM 363 - Problem Set & Analysis 
+  08.07.07 SRM 362 - Problem Set & Analysis 
+
+  08.01.07 SRM 361 - Problem Set & Analysis 
+
+   
+  
+ July 
+  
+  07.24.07 SRM 360 - Problem Set & Analysis 
+
+  07.21.07 SRM 359 - Problem Set & Analysis 
+  07.17.07 SRM 358 - Problem Set & Analysis 
+  07.12.07 SRM 357 - Problem Set & Analysis 
+
+  07.02.07 SRM 356 - Problem Set & Analysis 
+
+   
+  
+ June 
+  
+  06.29.07 TCO07 Finals - Problem Set & Analysis 
+
+  06.28.07 TCO07 Wildcard - Problem Set & Analysis 
+  06.28.07 TCO07 Room 3 - Problem Set & Analysis 
+  06.27.07 TCO07 Room 2 - Problem Set & Analysis 
+
+  06.27.07 TCO07 Room 1 - Problem Set & Analysis 
+  06.20.07 SRM 355 - Problem Set & Analysis 
+  06.14.07 SRM 354 - Problem Set & Analysis 
+
+  06.07.07 SRM 353 - Problem Set & Analysis 
+  06.02.07 SRM 352 - Problem Set & Analysis 
+
+   
+  
+
+ May 
+  
+  05.29.07 SRM 351 - Problem Set & Analysis 
+  05.23.07 SRM 350 - Problem Set & Analysis 
+
+  05.15.07 SRM 349 - Problem Set & Analysis 
+  05.09.07 SRM 348 - Problem Set & Analysis 
+  05.01.07 SRM 347 - Problem Set & Analysis 
+
+
+   
+  
+ April 
+  
+  04.28.07 TCO07 - Algorithm Round 4 - Problem Set & Analysis 
+  04.24.07 SRM 346 - Problem Set & Analysis 
+
+  04.21.07 TCO07 - Algorithm Round 3 - Problem Set & Analysis 
+  04.18.07 SRM 345 - Problem Set & Analysis 
+  04.14.07 TCO07 - Algorithm Round 2 - Problem Set & Analysis 
+
+  04.12.07 TCO07 - Algorithm Round 1C - Problem Set & Analysis 
+  04.10.07 TCO07 - Algorithm Round 1B - Problem Set & Analysis 
+  04.07.07 TCO07 - Algorithm Round 1A - Problem Set & Analysis 
+
+  04.03.07 TCO07 - Qualification Round 3 - Problem Set & Analysis 
+
+   
+  
+ March 
+  
+  03.31.07 TCO07 - Qualification Round 2 - Problem Set & Analysis 
+
+  03.29.07 TCO07 - Qualification Round 1 - Problem Set & Analysis 
+  03.28.07 SRM 344 - Problem Set & Analysis 
+  03.22.07 SRM 343 - Problem Set & Analysis 
+
+  03.14.07 SRM 342 - Problem Set & Analysis 
+  03.10.07 SRM 341 - Problem Set & Analysis 
+
+   
+  
+
+ February 
+  
+  02.20.07 SRM 340 - Problem Set & Analysis 
+  02.14.07 SRM 339 - Problem Set & Analysis 
+
+  02.07.07 SRM 338 - Problem Set & Analysis 
+  02.03.07 SRM 337 - Problem Set & Analysis 
+
+   
+
+  
+ January 
+  
+  01.25.07 SRM 336 - Problem Set & Analysis 
+  01.17.07 SRM 335 - Problem Set & Analysis 
+
+  01.13.07 SRM 334 - Problem Set & Analysis 
+  01.04.07 SRM 333 - Problem Set & Analysis 
+   
+
+  Match Editorial Archive - 2006 
+
+   
+  
+ December 
+  
+  12.28.06 SRM 332 - Problem Set & Analysis 
+
+  12.21.06 SRM 331 - Problem Set & Analysis 
+  12.13.06 SRM 330 - Problem Set & Analysis 
+  12.09.06 SRM 329 - Problem Set & Analysis 
+
+   
+  
+ November 
+  
+  11.29.06 SRM 328 - Problem Set & Analysis 
+
+  11.22.06 SRM 327 - Problem Set & Analysis 
+  11.17.06 TCCC06 - Finals Room - Problem Set & Analysis 
+  11.16.06 TCCC06 - WildCard Room - Problem Set & Analysis 
+
+  11.16.06 TCCC06 - Semifinals Room 3 - Problem Set & Analysis 
+  11.15.06 TCCC06 - Semifinals Room 2 - Problem Set & Analysis 
+  11.15.06 TCCC06 - Semifinals Room 1 - Problem Set & Analysis 
+
+  11.11.06 SRM 326 - Problem Set & Analysis 
+  11.02.06 SRM 325 - Problem Set & Analysis 
+
+   
+
+  October 
+  10.25.06 SRM 324 - Problem Set & Analysis 
+  10.19.06 SRM 323 - Problem Set & Analysis 
+
+  10.14.06 TCCC06 - Online Round 3 - Problem Set & Analysis 
+  10.11.06 TCCC06 - Online Round 2-C - Problem Set & Analysis 
+  10.09.06 SRM 322 - Problem Set & Analysis 
+
+  10.07.06 TCCC06 - Online Round 2-B - Problem Set & Analysis 
+  10.05.06 TCCC06 - Online Round 2-A - Problem Set & Analysis 
+  10.02.06 SRM 321 - Problem Set & Analysis 
+
+   
+  September 
+  09.30.06 SRM 320 - Problem Set & Analysis 
+  09.27.06 TCCC06 - Online Round 1-C - Problem Set & Analysis 
+
+  09.23.06 TCCC06 - Online Round 1-B - Problem Set & Analysis 
+  09.21.06 TCCC06 - Online Round 1-A - Problem Set & Analysis 
+  09.18.06 SRM 319 - Problem Set & Analysis 
+
+  09.12.06 TCCC06 - Qualification Round 3 - Problem Set & Analysis 
+  09.09.06 TCCC06 - Qualification Round 2 - Problem Set & Analysis 
+  09.07.06 TCCC06 - Qualification Round 1 - Problem Set & Analysis 
+
+   
+  August 
+  08.29.06 SRM 318 - Problem Set & Analysis 
+  08.24.06 SRM 317 - Problem Set & Analysis 
+
+  08.19.06 SRM 316 - Problem Set & Analysis 
+  08.09.06 SRM 315 - Problem Set & Analysis 
+  08.03.06 SRM 314 - Problem Set & Analysis 
+
+   
+  July 
+  07.26.06 SRM 313 - Problem Set & Analysis 
+  07.22.06 SRM 312 - Problem Set & Analysis 
+
+  07.12.06 SRM 311 - Problem Set & Analysis 
+  07.06.06 SRM 310 - Problem Set & Analysis 
+
+   
+
+  June 
+  06.28.06 SRM 309 - Problem Set & Analysis 
+  06.24.06 SRM 308 - Problem Set & Analysis 
+
+  06.15.06 SRM 307 - Problem Set & Analysis 
+  06.08.06 SRM 306 - Problem Set & Analysis 
+
+   
+
+  May 
+  05.31.06 SRM 305 - Problem Set & Analysis 
+  05.27.06 SRM 304 - Problem Set & Analysis 
+
+  05.18.06 SRM 303 - Problem Set & Analysis 
+  05.11.06 SRM 302 - Problem Set & Analysis 
+  05.09.06 SRM 301 - Problem Set & Analysis 
+
+  05.05.06 TCO06 - Finals Room - Problem Set & Analysis 
+  05.04.06 TCO06 - WildCard Room - Problem Set & Analysis 
+  05.04.06 TCO06 - Semifinals Room 3 - Problem Set & Analysis 
+
+  05.04.06 TCO06 - Semifinals Room 2 - Problem Set & Analysis 
+  05.03.06 TCO06 - Semifinals Room 1 - Problem Set & Analysis 
+
+   
+
+  April 
+  04.27.06 SRM 300 - Problem Set & Analysis 
+  04.22.06 SRM 299 - Problem Set & Analysis 
+
+  04.11.06 SRM 298 - Problem Set & Analysis 
+  04.06.06 SRM 297 - Problem Set & Analysis 
+  04.03.06 SRM 296 - Problem Set & Analysis 
+
+   
+  March 
+  03.29.06 SRM 295 - Problem Set & Analysis 
+  03.25.06 SRM 294 - Problem Set & Analysis 
+
+  03.22.06 TCO06 - Online Round 4 - Problem Set & Analysis 
+  03.17.06 SRM 293 - Problem Set & Analysis 
+  03.15.06 TCO06 - Online Round 3 - Problem Set & Analysis 
+
+  03.08.06 TCO06 - Online Round 2 - Problem Set & Analysis 
+  03.07.06 SRM 292 - Problem Set & Analysis 
+  03.04.06 TCO06 - Online Round 1 - Problem Set & Analysis 
+
+   
+  February 
+  02.28.06 TCO06 - Qualification Sets - Problem Set & Analysis 
+  02.21.06 SRM 291 - Problem Set & Analysis 
+
+  02.16.06 SRM 290 - Problem Set & Analysis 
+  02.14.06 SRM 289 - Problem Set & Analysis 
+  02.08.06 SRM 288 - Problem Set & Analysis 
+
+  02.04.06 SRM 287 - Problem Set & Analysis 
+
+   
+  January 
+  01.30.06 SRM 286 - Problem Set & Analysis 
+
+  01.24.06 SRM 285 - Problem Set & Analysis 
+  01.21.06 SRM 284 - Problem Set & Analysis 
+  01.19.06 SRM 283 - Problem Set & Analysis 
+
+  01.10.06 SRM 282 - Problem Set & Analysis 
+  01.05.06 SRM 281 - Problem Set & Analysis 
+  
+
+  
+
+
+ 
+  Match Editorial Archive - 2005 
+
+   
+  December 
+  12.28.05 SRM 280 - Problem Set & Analysis 
+
+  12.21.05 SRM 279 - Problem Set & Analysis 
+  12.19.05 SRM 278 - Problem Set & Analysis 
+  12.17.05 SRM 277 - Problem Set & Analysis 
+
+  12.08.05 SRM 276 - Problem Set & Analysis 
+
+   
+  November 
+  11.30.05 SRM 275 - Problem Set & Analysis 
+
+  11.23.05 SRM 274 - Problem Set & Analysis 
+  11.21.05 SRM 273 - Problem Set & Analysis 
+  11.19.05 SRM 272 - Problem Set & Analysis 
+
+  11.08.05 SRM 271 - Problem Set & Analysis 
+  11.03.05 SRM 270 - Problem Set & Analysis 
+
+   
+
+  October 
+  10.26.05 SRM 269 - Problem Set & Analysis 
+  10.18.05 SRM 268 - Problem Set & Analysis 
+
+  10.14.05 TCO05 - Finals - Problem Set & Analysis 
+  10.14.05 TCO05 - WildCard Room - Problem Set & Analysis 
+  10.13.05 TCO05 - Semifinals Room 3 - Problem Set & Analysis 
+
+  10.13.05 TCO05 - Semifinals Room 2 - Problem Set & Analysis 
+  10.13.05 TCO05 - Semifinals Room 1 - Problem Set & Analysis 
+  10.06.05 SRM 267 - Problem Set & Analysis 
+
+  10.01.05 SRM 266 - Problem Set & Analysis 
+
+   
+  September 
+  09.27.05 SRM 265 - Problem Set & Analysis 
+
+  09.20.05 SRM 264 - Problem Set & Analysis 
+  09.14.05 SRM 263 - Problem Set & Analysis 
+  09.09.05 SRM 262 - Problem Set & Analysis 
+
+  09.07.05 TCO05 - Online Round 4 - Problem Set & Analysis 
+
+   
+  August 
+  08.31.05 TCO05 - Online Round 3 - Problem Set & Analysis 
+
+  08.30.05 SRM 261 - Problem Set & Analysis 
+  08.27.05 SRM 260 - Problem Set & Analysis 
+  08.24.05 TCO05 - Online Round 2 - Problem Set & Analysis 
+
+  08.22.05 SRM 259 - Problem Set & Analysis 
+  08.20.05 TCO05 - Online Round 1 - Problem Set & Analysis 
+  08.16.05 TCO05 - Qualification 5 - Problem Set & Analysis 
+
+  08.16.05 TCO05 - Qualification 4 - Problem Set & Analysis 
+  08.16.05 TCO05 - Qualification 3 - Problem Set & Analysis 
+  08.16.05 TCO05 - Qualification 2 - Problem Set & Analysis 
+
+  08.16.05 TCO05 - Qualification 1 - Problem Set & Analysis 
+  08.10.05 SRM 258 - Problem Set & Analysis 
+  08.08.05 SRM 257 - Problem Set & Analysis 
+
+  08.02.05 SRM 256 - Problem Set & Analysis 
+
+   
+  July 
+  07.28.05 SRM 255 - Problem Set & Analysis 
+
+  07.26.05 SRM 254 - Problem Set & Analysis 
+  07.23.05 SRM 253 - Problem Set & Analysis 
+  07.12.05 SRM 251 - Problem Set & Analysis 
+
+  07.07.05 SRM 250 - Problem Set & Analysis 
+
+   
+  June 
+  06.29.05 SRM 249 - Problem Set & Analysis 
+
+  06.21.05 SRM 248 - Problem Set & Analysis 
+  06.18.05 SRM 247 - Problem Set & Analysis 
+  06.09.05 SRM 246 - Problem Set & Analysis 
+
+  06.01.05 SRM 245 - Problem Set & Analysis 
+
+   
+  May 
+  05.23.05 SRM 244 - Problem Set & Analysis 
+
+  05.17.05 SRM 243 - Problem Set & Analysis 
+  05.14.05 SRM 242 - Problem Set & Analysis 
+  05.04.05 SRM 241 - Problem Set & Analysis 
+
+
+   
+  April 
+  04.30.05 SRM 240 - Problem Set & Analysis 
+  04.18.05 SRM 239 - Problem Set & Analysis 
+
+  04.14.05 SRM 238 - Problem Set & Analysis 
+  04.06.05 SRM 237 - Problem Set & Analysis 
+  04.02.05 SRM 236 - Problem Set & Analysis 
+
+
+   
+  March 
+  03.22.05 SRM 235 - Problem Set & Analysis 
+  03.16.05 SRM 234 - Problem Set & Analysis 
+
+  03.11.05 TCCC05 - Finals - Problem Set & Analysis 
+  03.11.05 TCCC05 - WildCard Room - Problem Set & Analysis 
+  03.10.05 TCCC05 - Semifinals Room 3 - Problem Set & Analysis 
+
+  03.10.05 TCCC05 - Semifinals Room 2 - Problem Set & Analysis 
+  03.10.05 TCCC05 - Semifinals Room 1 - Problem Set & Analysis 
+  03.02.05 SRM 233 - Problem Set & Analysis 
+
+
+   
+  February 
+  02.23.05 SRM 232 - Problem Set & Analysis 
+  02.19.05 SRM 231 - Problem Set & Analysis 
+
+  02.08.05 SRM 230 - Problem Set & Analysis 
+  02.02.05 TCCC05 - Online Round 4 - Problem Set & Analysis 
+
+   
+
+  January 
+  01.31.05 SRM 229 - Problem Set & Analysis 
+  01.27.05 SRM 228 - Problem Set & Analysis 
+
+  01.26.05 TCCC05 - Online Round 3 - Problem Set & Analysis 
+  01.22.05 SRM 227 - Problem Set & Analysis 
+  01.19.05 TCCC05 - Online Round 2 - Problem Set & Analysis 
+
+  01.15.05 TCCC05 - Online Round 1 - Problem Set & Analysis 
+  01.12.05 TCCC05 - Qualification 5 - Problem Set & Analysis 
+  01.12.05 TCCC05 - Qualification 4 - Problem Set & Analysis 
+
+  01.12.05 TCCC05 - Qualification 3 - Problem Set & Analysis 
+  01.12.05 TCCC05 - Qualification 2 - Problem Set & Analysis 
+  01.12.05 TCCC05 - Qualification 1 - Problem Set & Analysis 
+
+  01.05.05 SRM 226 - Problem Set & Analysis 
+  
+
+  
+
+ 
+  Match Editorial Archive - 2004 
+
+   
+  December 
+  12.28.04 SRM 225 - Problem Set & Analysis 
+  12.22.04 SRM 224 - Problem Set & Analysis 
+
+  12.18.04 SRM 223 - Problem Set & Analysis 
+  12.07.04 SRM 222 - Problem Set & Analysis 
+  12.01.04 SRM 221 - Problem Set & Analysis 
+
+   
+  November 
+  11.23.04 SRM 220 - Problem Set & Analysis 
+  11.20.04 SRM 219 - Problem Set & Analysis 
+
+  11.12.04 TCO04 - Finals - Problem Set & Analysis 
+  11.12.04 TCO04 - WildCard Round - Problem Set & Analysis 
+  11.11.04 TCO04 - Semifinals Room 3 - Problem Set & Analysis 
+
+  11.11.04 TCO04 - Semifinals Room 2 - Problem Set & Analysis 
+  11.11.04 TCO04 - Semifinals Room 1 - Problem Set & Analysis 
+  11.04.04 SRM 218- Problem Set & Analysis 
+
+   
+  October 
+  10.27.04 SRM 217- Problem Set & Analysis 
+  10.18.04 SRM 216- Problem Set & Analysis 
+
+  10.16.04 SRM 215- Problem Set & Analysis 
+  10.06.04 SRM 214- Problem Set & Analysis 
+
+   
+
+  September 
+  09.29.04 TCO04 - Online Round 4 - Problem Set & Analysis 
+  09.28.04 SRM 213- Problem Set & Analysis 
+
+  09.25.04 SRM 212- Problem Set & Analysis 
+  09.22.04 TCO04 - Online Round 3 - Problem Set & Analysis 
+  09.14.04 TCO04 - Online Round 2 - Problem Set & Analysis 
+
+  09.14.04 SRM 211- Problem Set & Analysis 
+  09.11.04 TCO04 - Online Round 1 - Problem Set & Analysis 
+  09.08.04 TCO04 - Qualification 5 - Problem Set & Analysis 
+
+  09.08.04 TCO04 - Qualification 4 - Problem Set & Analysis 
+  09.08.04 TCO04 - Qualification 3 - Problem Set & Analysis 
+  09.08.04 TCO04 - Qualification 2 - Problem Set & Analysis 
+
+  09.08.04 TCO04 - Qualification 1 - Problem Set & Analysis 
+  09.01.04 SRM 210- Problem Set & Analysis 
+
+   
+
+  August 
+  08.28.04 SRM 209- Problem Set & Analysis 
+  08.18.04 SRM 208- Problem Set & Analysis 
+
+  08.10.04 SRM 207- Problem Set & Analysis 
+  08.04.04 SRM 206- Problem Set & Analysis 
+
+   
+
+  July 
+  07.31.04 SRM 205- Problem Set & Analysis 
+  07.21.04 SRM 204- Problem Set & Analysis 
+
+  07.15.04 SRM 203- Problem Set & Analysis 
+  07.07.04 SRM 202- Problem Set & Analysis 
+
+   
+
+  June 
+  06.29.04 SRM 201- Problem Set & Analysis 
+  06.21.04 SRM 200- Problem Set & Analysis 
+
+  06.16.04 SRM 199- Problem Set & Analysis 
+  06.12.04 SRM 198- Problem Set & Analysis 
+  06.02.04 SRM 197- Problem Set & Analysis 
+
+   
+  May 
+  05.27.04 SRM 196- Problem Set & Analysis 
+  05.18.04 SRM 195- Problem Set & Analysis 
+
+  05.15.04 SRM 194- Problem Set & Analysis 
+  05.05.04 SRM 193- Problem Set & Analysis 
+
+   
+
+  April 
+  04.27.04 SRM 192- Problem Set & Analysis 
+  04.24.04 SRM 191- Problem Set & Analysis 
+
+  04.16.04 TCCC04 - Finals - Problem Set & Analysis 
+  04.15.04 TCCC04 - Wildcard Room - Problem Set & Analysis 
+  04.15.04 TCCC04 - Semi Room 3 - Problem Set & Analysis 
+
+  04.15.04 TCCC04 - Semi Room 2 - Problem Set & Analysis 
+  04.15.04 TCCC04 - Semi Room 1 - Problem Set & Analysis 
+  04.06.04 SRM 190 - Problem Set & Analysis 
+
+   
+  March 
+  03.31.04 SRM 189 - Problem Set & Analysis 
+  03.25.04 SRM 188 - Problem Set & Analysis 
+
+  03.17.04 TCCC04 - Online Round 4 - Problem Set & Analysis 
+  03.16.04 SRM 187 - Problem Set & Analysis 
+  03.13.04 SRM 186 - Problem Set & Analysis 
+
+  03.10.04 TCCC04 - Online Round 3 - Problem Set & Analysis 
+  03.03.04 TCCC04 - Online Round 2 - Problem Set & Analysis 
+  03.01.04 SRM 185 - Problem Set & Analysis 
+
+   
+  February 
+  02.28.04 TCCC04 - Online Round 1 - Problem Set & Analysis 
+  02.24.04 TCCC04 - Qualification 5 - Problem Set & Analysis 
+
+  02.24.04 TCCC04 - Qualification 4 - Problem Set & Analysis 
+  02.24.04 TCCC04 - Qualification 3 - Problem Set & Analysis 
+  02.24.04 TCCC04 - Qualification 2 - Problem Set & Analysis 
+
+  02.24.04 TCCC04 - Qualification 1 - Problem Set & Analysis 
+  02.17.04 SRM 184 - Problem Set & Analysis 
+  02.11.04 SRM 183 - Problem Set & Analysis 
+
+  02.07.04 SRM 182 - Problem Set & Analysis 
+
+  January 
+  01.28.04 SRM 181 - Problem Set & Analysis 
+
+  01.22.04 SRM 180 - Problem Set & Analysis 
+  01.17.04 SRM 179 - Problem Set & Analysis 
+  01.07.04 SRM 178 - Problem Set & Analysis 
+
+  
+
+  
+
+ 
+  Match Editorial Archive - 2003 
+
+   
+  December 
+
+  12.30.03 SRM 177 - Problem Set & Analysis 
+  12.22.03 SRM 176 - Problem Set & Analysis 
+  12.17.03 SRM 175 - Problem Set & Analysis 
+
+  12.13.03 SRM 174 - Problem Set & Analysis 
+  12.05.03 2003 TCO Finals - Problem Set & Analysis 
+  12.04.03 2003 TCO Semi Room 4 - Problem Set & Analysis 
+
+  12.04.03 2003 TCO Semi Room 3 - Problem Set & Analysis 
+  12.04.03 2003 TCO Semi Room 2 - Problem Set & Analysis 
+  12.04.03 2003 TCO Semi Room 1 - Problem Set & Analysis 
+
+  November 
+  11.26.03 SRM 173 - Problem Set & Analysis 
+  11.20.03 SRM 172 - Problem Set & Analysis 
+
+  11.17.03 CRPF - Finals - Problem Set & Analysis 
+  11.12.03 SRM 171 - Problem Set & Analysis 
+  11.11.03 CRPF - Round 1 - Problem Set & Analysis 
+
+  11.08.03 SRM 170 - Problem Set & Analysis 
+  11.05.03 TCO - Online Round 4 - Problem Set & Analysis 
+
+   
+
+  October 
+  10.29.03 TCO - Online Round 3 - Problem Set & Analysis 
+  10.28.03 SRM 169 - Problem Set & Analysis 
+
+  10.22.03 TCO - Online Round 2 - Problem Set & Analysis 
+  10.21.03 SRM 168 - Problem Set & Analysis 
+  10.15.03 TCO - Online Round 1 - Problem Set & Analysis 
+
+  10.14.03 SRM 167 - Problem Set & Analysis 
+  10.09.03 TCO - Qualification Round 2 - Problem Set & Analysis 
+  10.07.03 TCO - Qualification Round 1 - Problem Set & Analysis 
+
+  10.01.03 SRM 166 - Problem Set & Analysis 
+
+   
+
+  September 
+  09.23.03 SRM 165 - Problem Set & Analysis 
+
+  09.20.03 SRM 164 - Problem Set & Analysis 
+  09.08.03 SRM 163 - Problem Set & Analysis 
+  09.03.03 SRM 162 - Problem Set & Analysis 
+
+   
+
+  August 
+  08.28.03 SRM 161 - Problem Set & Analysis 
+  08.23.03 SRM 160 - Problem Set & Analysis 
+
+  08.12.03 SRM 159 - Problem Set & Analysis 
+  08.06.03 SRM 158 - Problem Set & Analysis 
+
+   
+
+  July 
+  07.28.03 SRM 157 - Problem Set & Analysis 
+  07.23.03 SRM 156 - Problem Set & Analysis 
+
+  07.17.03 SRM 155 - Problem Set & Analysis 
+  07.09.03 SRM 154 - Problem Set & Analysis 
+  07.01.03 SRM 153 - Problem Set & Analysis 
+
+   
+
+  June 
+  06.26.03 SRM 152 - Problem Set & Analysis 
+  06.17.03 SRM 151 - Problem Set & Analysis 
+
+  06.11.03 SRM 150 - Problem Set & Analysis 
+  06.02.03 SRM 149 - Problem Set & Analysis 
+
+   
+
+  May 
+  05.28.03 SRM 148 - Problem Set & Analysis 
+  05.22.03 SRM 147 - Problem Set & Analysis 
+
+  05.14.03 SRM 146 - Problem Set & Analysis 
+  05.06.03 SRM 145 - Problem Set & Analysis 
+
+   
+
+  April 
+  04.30.03 SRM 144 - Problem Set & Analysis 
+  04.15.03 SRM 142 - Problem Set & Analysis 
+
+  04.10.03 SRM 141 - Problem Set & Analysis 
+  04.05.03 2003 TCCC Finals - Problem Set & Analysis 
+  04.04.03 2003 TCCC Semifinals Room #4 - Problem Set & Analysis 
+
+  04.04.03 2003 TCCC Semifinals Room #3 - Problem Set & Analysis 
+  04.04.03 2003 TCCC Semifinals Room #2 - Problem Set & Analysis 
+  04.04.03 2003 TCCC Semifinals Room #1 - Problem Set & Analysis 
+
+   
+
+  March 
+  03.26.03 SRM 140 - Problem Set & Analysis 
+  03.18.03 SRM 139 - Problem Set & Analysis 
+
+  03.12.03 2003 TCCC Regional Finals - Problem Set & Analysis 
+  03.10.03 SRM 138 - Problem Set & Analysis 
+  03.06.03 SRM 137 - Problem Set & Analysis 
+
+  03.05.03 2003 TCCC Regional Semi. - Problem Set & Analysis 
+
+   
+
+  February 
+  02.26.03 2003 TCCC Regional Quart. - Problem Set & Analysis 
+
+  02.25.03 SRM 136 - Problem Set & Analysis 
+  02.22.03 2003 TCCC Round 1 Int. - Problem Set & Analysis 
+  02.20.03 2003 TCCC Round 1 W/MW - Problem Set & Analysis 
+
+  02.18.03 2003 TCCC Round 1 NE/SE - Problem Set & Analysis 
+  02.11.03 SRM 135 - Problem Set & Analysis 
+  02.08.03 SRM 134 - Problem Set & Analysis 
+
+  02.05.03 SRM 133 - Problem Set & Analysis 
+  02.01.03 SRM 132 - Problem Set & Analysis 
+
+   
+
+  January 
+  01.30.03 SRM 131 - Problem Set & Analysis 
+  01.14.03 SRM 129 - Problem Set & Analysis 
+
+  01.06.03 SRM 128 - Problem Set & Analysis 
+  01.02.03 SRM 127 - Problem Set & Analysis 
+  
+
+  
+
+ 
+  Match Editorial Archive - 2002 
+
+   
+
+  December 
+  12.23.02 SRM 126 - Problem Set & Analysis 
+
+  12.16.02 SRM 125 - Problem Set & Analysis 
+  12.12.02 SRM 124 - Problem Set & Analysis 
+  12.10.02 SRM 123 - Problem Set & Analysis 
+
+  12.04.02 SRM 122 - Problem Set & Analysis 
+
+   
+
+  November 
+  11.26.02 SRM 121 - Problem Set & Analysis 
+
+  11.23.02 2002 Invitational Championship - Problem Set & Analysis 
+  11.22.02 2002 Invitational Room #4 - Problem Set & Analysis 
+  11.22.02 2002 Invitational Room #3 - Problem Set & Analysis 
+
+  11.22.02 2002 Invitational Room #2 - Problem Set & Analysis 
+  11.22.02 2002 Invitational Room #1 - Problem Set & Analysis 
+  11.13.02 SRM 120 - Problem Set & Analysis 
+
+  11.07.02 SRM 119 - Problem Set & Analysis 
+
+   
+
+  October 
+  10.30.02 2002 Invitational Round #4 - Problem Set & Analysis 
+
+  10.29.02 SRM 118 - Problem Set & Analysis 
+  10.23.02 2002 Invitational Round #3 - Problem Set & Analysis 
+  10.21.02 SRM 117 - Problem Set & Analysis 
+
+  10.16.02 2002 Invitational Round #2 - Problem Set & Analysis 
+  10.15.02 SRM 116 - Problem Set & Analysis 
+  10.10.02 2002 Invitational Round #1 (part 2) - Problem Set & Analysis 
+
+  10.08.02 2002 Invitational Round #1 (part 1) - Problem Set & Analysis 
+
+   
+
+  September 
+  09.30.02 SRM 115 - Problem Set & Analysis 
+
+  09.24.02 SRM 114 - Problem Set & Analysis 
+  09.10.02 SRM 113 - Problem Set & Analysis 
+  09.09.02 SRM 112 - Problem Set & Analysis 
+
+  09.04.02 SRM 111 - Problem Set & Analysis 
+
+
+   
+
+  August 
+  08.27.02 SRM 110 - Problem Set & Analysis 
+
+  08.21.02 SRM 109 - Problem Set & Analysis 
+  08.12.02 SRM 108 - Problem Set & Analysis 
+  08.07.02 SRM 107 - Problem Set & Analysis 
+
+  08.01.02 SRM 106 - Problem Set & Analysis 
+
+
+   
+
+  July 
+  07.24.02 SRM 105 - Problem Set & Analysis 
+
+  07.16.02 SRM 104 - Problem Set & Analysis 
+  07.10.02 SRM 103 - Rookie Review | Problem Set 
+  07.01.02 SRM 102 - Room 1 | Rookie Review | Problem Set 
+
+
+   
+
+  June 
+  06.26.02 SRM 101 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+
+  06.24.02 SRM 100 - Room 1 | Rookie Review | Problem Set 
+  06.19.02 SRM 98 - Room 1 | Rookie Review | Problem Set 
+
+  06.12.02 SRM 97 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+  06.11.02 SRM 96 - Room 1 | Rookie Review | Problem Set 
+
+  06.05.02 SRM 95 - Room 1 | Rookie Review | Problem Set 
+  06.03.02 SRM 94 - Room 1 | Rookie Review | Problem Set 
+
+
+   
+
+  May 
+  05.30.02 SRM 93 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+
+  05.29.02 SRM 92 - Room 1 | Rookie Review | Problem Set 
+  05.22.02 SRM 91 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+
+  05.21.02 SRM 90 - Room 1 | Rookie Review | Problem Set 
+  05.18.02 SRM 89 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+
+  05.15.02 SRM 88 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+  05.09.02 SRM 87 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+
+  05.08.02 SRM 86 - Room 1 | Rookie Review | Problem Set 
+  05.01.02 SRM 85 - Room 1 | Rookie Review | Problem Set | LessonsLearned 
+
+
+   
+
+  April 
+  04.30.02 SRM 84 - Room 1 | Rookie Review | Problem Set Analysis & Opinion 
+
+  04.27.02 SRM 83 - Room 1 | Rookie Review | Problem Set Analysis & Opinion 
+  04.24.02 SRM 82 - Coder Point of View editorials not available for this match. 
+  04.22.02 SRM 81 - This match was rescheduled to Saturday, April 27th as SRM 83 
+
+  04.15.02 SRM 80 - Room 1 | Rookie Review | Problem Set Analysis & Opinion 
+  04.10.02 SRM 79 - Room 1 | Rookie Review | Problem Set Analysis & Opinion 
+
+  04.09.02 SRM 78 - Room 1 | Rookie Review | Problem Set Analysis & Opinion 
+   
+ 
+        
+
+       
+           
+     
+   
+        Children 
+     
+     Hide Children 
+   
+    | View in Hierarchy 
+      
+      
+              
+       501 
+        
+              
+       Copy of SRM 591 
+        
+              
+       GoodNumbers 
+        
+              
+       Guidelines for editorial writers 
+        
+              
+       Member SRM 455 
+        
+              
+       Member SRM 458 
+        
+              
+       Member SRM 461 
+        
+              
+       Member SRM 465 
+        
+              
+       Member SRM 503 
+        
+              
+       SRM 434 
+        
+              
+       SRM 435 
+        
+              
+       SRM 436 
+        
+              
+       SRM 437 
+        
+              
+       SRM 438 
+        
+              
+       SRM 439 
+        
+              
+       SRM 440 
+        
+              
+       SRM 441 
+        
+              
+       SRM 442 
+        
+              
+       SRM 443 
+        
+              
+       SRM 444 
+        
+              
+       SRM 445 
+        
+              
+       SRM 446 
+        
+              
+       SRM 447 
+        
+              
+       SRM 448 
+        
+              
+       SRM 449 
+        
+              
+       SRM 450 
+        
+              
+       SRM 451 
+        
+              
+       SRM 452 
+        
+              
+       SRM 453 
+        
+              
+       SRM 453.5 
+        
+              
+       SRM 454 
+        
+              
+       SRM 456 
+        
+              
+       SRM 457 
+        
+              
+       SRM 459 
+        
+              
+       SRM 460 
+        
+              
+       SRM 462 
+        
+              
+       SRM 463 
+        
+              
+       SRM 464 
+        
+              
+       SRM 466 
+        
+              
+       SRM 467 
+        
+              
+       SRM 468 
+        
+              
+       SRM 469 
+        
+              
+       SRM 470 
+        
+              
+       SRM 472 
+        
+              
+       SRM 473 
+        
+              
+       SRM 475 
+        
+              
+       SRM 476 
+        
+              
+       SRM 477 
+        
+              
+       SRM 479 
+        
+              
+       SRM 480 
+        
+              
+       SRM 481 
+        
+              
+       SRM 483 
+        
+              
+       SRM 484 
+        
+              
+       SRM 486 
+        
+              
+       SRM 487 
+        
+              
+       SRM 488 
+        
+              
+       SRM 490 
+        
+              
+       SRM 492 
+        
+              
+       SRM 493 
+        
+              
+       SRM 495 
+        
+              
+       SRM 496 
+        
+              
+       SRM 497 
+        
+              
+       SRM 498 
+        
+              
+       SRM 499 
+        
+              
+       SRM 500 
+        
+              
+       SRM 501 
+        
+              
+       SRM 502 
+        
+              
+       SRM 504 
+        
+              
+       SRM 504.5 
+        
+              
+       SRM 506 
+        
+              
+       SRM 507 
+        
+              
+       SRM 508 
+        
+              
+       SRM 509 
+        
+              
+       SRM 510 
+        
+              
+       SRM 511 
+        
+              
+       SRM 512 
+        
+              
+       SRM 513 
+        
+              
+       SRM 514 
+        
+              
+       SRM 515 
+        
+              
+       SRM 516 
+        
+              
+       SRM 517 
+        
+              
+       SRM 518 
+        
+              
+       SRM 519 
+        
+              
+       SRM 520 
+        
+              
+       SRM 521 
+        
+              
+       SRM 522 
+        
+              
+       SRM 523 
+        
+              
+       SRM 524 
+        
+              
+       SRM 525 
+        
+              
+       SRM 526 
+        
+              
+       SRM 526.5 
+        
+              
+       SRM 527 
+        
+              
+       SRM 528 
+        
+              
+       SRM 529 
+        
+              
+       SRM 530 
+        
+              
+       SRM 531 
+        
+              
+       SRM 532 
+        
+              
+       SRM 533 
+        
+              
+       SRM 534 
+        
+              
+       SRM 535 
+        
+              
+       SRM 536 
+        
+              
+       SRM 537 
+        
+              
+       SRM 538 
+        
+              
+       SRM 539 
+        
+              
+       SRM 540 
+        
+              
+       SRM 541 
+        
+              
+       SRM 542 
+        
+              
+       SRM 543 
+        
+              
+       SRM 544 
+        
+              
+       SRM 545 
+        
+              
+       SRM 546 
+        
+              
+       SRM 547 
+        
+              
+       SRM 548 
+        
+              
+       SRM 549 
+        
+              
+       SRM 550 
+        
+              
+       SRM 551 
+        
+              
+       SRM 552 
+        
+              
+       SRM 553 
+        
+              
+       SRM 554 
+        
+              
+       SRM 555 
+        
+              
+       SRM 556 
+        
+              
+       SRM 557 
+        
+              
+       SRM 558 
+        
+              
+       SRM 559 
+        
+              
+       SRM 560 
+        
+              
+       SRM 561 
+        
+              
+       SRM 562 
+        
+              
+       SRM 563 
+        
+              
+       SRM 564 
+        
+              
+       SRM 565 
+        
+              
+       SRM 566 
+        
+              
+       SRM 567 
+        
+              
+       SRM 568 
+        
+              
+       SRM 569 
+        
+              
+       SRM 570 
+        
+              
+       SRM 571 
+        
+              
+       SRM 573 
+        
+              
+       SRM 574 
+        
+              
+       SRM 575 
+        
+              
+       SRM 576 
+        
+              
+       SRM 577 
+        
+              
+       SRM 578 
+        
+              
+       SRM 579 
+        
+              
+       SRM 580 
+        
+              
+       SRM 581 
+        
+              
+       SRM 582 
+        
+              
+       SRM 583 
+        
+              
+       SRM 584 
+        
+              
+       SRM 585 
+        
+              
+       SRM 586 
+        
+              
+       SRM 587 
+        
+              
+       SRM 588 
+        
+              
+       SRM 589 
+        
+              
+       SRM 590 
+        
+              
+       SRM 591 
+        
+              
+       SRM 592 
+        
+              
+       SRM 593 
+        
+              
+       SRM 594 
+        
+              
+       SRM 595 
+        
+              
+       SRM 596 
+        
+              
+       SRM 597 
+        
+              
+       SRM+460 
+        
+              
+       TCO 2010 Qualify 1 
+        
+              
+       TCO 2012 Round 1A 
+        
+              
+       TCO 2012 Round 1B 
+        
+              
+       TCO 2012 Round 1C 
+        
+              
+       TCO 2012 Round 2A 
+        
+              
+       TCO 2012 Round 2B 
+        
+              
+       TCO 2012 Round 2C 
+        
+              
+       TCO 2012 Round 3A 
+        
+              
+       TCO 2012 Round 3B 
+        
+              
+       TCO 2013 Finals 
+        
+              
+       TCO 2013 Round 1A 
+        
+              
+       TCO 2013 Round 1B 
+        
+              
+       TCO 2013 Round 1C 
+        
+              
+       TCO 2013 Round 2A 
+        
+              
+       TCO 2013 Round 2B 
+        
+              
+       TCO 2013 Round 2C 
+        
+              
+       TCO 2013 Round 3A 
+        
+              
+       TCO 2013 Round 3B 
+        
+              
+       TCO 2013 Semifinal 1 
+        
+              
+       TCO 2013 Semifinal 2 
+        
+              
+       TCO 2013 Wildcard 
+        
+              
+       TCO'09 Championship Round 
+        
+              
+       TCO'09 Elimination Round 1 
+        
+              
+       TCO'09 Elimination Round 2 
+        
+              
+       TCO'09 Elimination Round 3 
+        
+              
+       TCO'09 Elimination Round 4 
+        
+              
+       TCO'09 Elimination Round 5 
+        
+              
+       TCO'09 Qualification Round 1 
+        
+              
+       TCO'09 Qualification Round 2 
+        
+              
+       TCO'09 Qualification Round 3 
+        
+              
+       TCO'09 Semifinal Round 
+        
+              
+       TCO'10 Championship Round 
+        
+              
+       TCO'10 Online Round 1 
+        
+              
+       TCO'10 Online Round 2 
+        
+              
+       TCO'10 Online Round 3 
+        
+              
+       TCO'10 Online Round 4 
+        
+              
+       TCO'10 Online Round 5 
+        
+              
+       TCO'10 Qualification Round 1 
+        
+              
+       TCO'10 Qualification Round 2 
+        
+              
+       TCO'10 Qualification Round 3 
+        
+              
+       TCO'10 Semifinal 1 
+        
+              
+       TCO'10 Semifinal 2 
+        
+              
+       TCO'10 Wildcard Round 
+        
+              
+       TCO'11 Online Round 1 
+        
+              
+       TCO'11 Online Round 2 
+        
+              
+       TCO'11 Online Round 3 
+        
+              
+       TCO'11 Online Round 4 
+        
+              
+       TCO'11 Online Round 5 
+        
+              
+       TCO'11 Qualification Round 1 
+        
+              
+       TCO'11 Qualification Round 2 
+        
+              
+       TCO'11 Qualification Round 3 
+        
+              
+       TheFourSquares 
+        
+              
+       TheGameDAG 
+        
+              
+       voice recoginition 
+        
+              
+       。。。 
+        
+        
+     
+ 
+        
+
+
+
+
+ 
+ 
+
+ 
+  
+ 
+    
+    Comments 
+       ( Hide Comments ) 
+      
+ 
+ 
+   
+   
+              
+   
+     
+    Does somebody know about a way of downloading all the past SRM's problems and analysis in one file??? 
+    
+       
+ 
+        
+    
+         Posted by    gilcu3
+ at Dec 07, 2012 11:36 
+    
+                         
+
+   
+      
+  
+                      
+   
+     
+    You can use recursive wget for the editorials. 
+
+ Note, however, that redistributing these files is possibly a copyright violation, so they would have to be for private use only. 
+    
+       
+ 
+        
+    
+         Posted by    vexorian
+ at Nov 04, 2013 06:37 
+    
+                         
+
+   
+      
+  
+         
+                
+           
+   
+     
+    
+I removed old comments regarding issues that have been fixed before. 
+ 
+Let me create a small FAQ about the problem set analysis page. 
+ 
+ Q. Where is the editorial for SRM XXX? 
+ Certain matches don&apos;t have editorials. A typical reason is that the SRM in question was a Member SRM. Member SRMs problem sets were completely voluntary work and many times no one wrote an editorial for them. In other situations, the SRM may have had technical issues strong enough to make it have no statistics. In some of those cases no editorial was added. 
+ If a match misses a link here, it is usually because the editorial does not exist or is incomplete. However, if you do find an editorial that does not have a link in this page, please report it. 
+ 
+    
+       
+ 
+        
+    
+         Posted by    vexorian
+ at Nov 04, 2013 06:43 
+    
+                         
+
+   
+      
+  
+         
+           
+   
+     
+    I found SRM582 is not listed in Chronological list. 
+
+ It's only listed in Child Page List. 
+
+ Can someone add it? 
+    
+       
+ 
+        
+    
+         Posted by    antonio081014
+ at Nov 07, 2013 18:31 
+    
+                         
+
+   
+      
+  
+                      
+   
+     
+    We didn't publish it officially because it is not finished. 
+    
+       
+ 
+        
+    
+         Posted by    vexorian
+ at Nov 07, 2013 18:43 
+    
+                         
+
+   
+      
+  
+         
+                
+       
+   
+          
+
+
+
+                
+
+
+              
+   
+
+  
+   
+  
+ 
+
+ 
+
+   
+  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+  
+   
+    Home   |  
+    About TopCoder   |  
+    Press Room   |  
+    Contact Us   |  
+    Privacy   |  
+    Terms 
+    
+    Developer Center   |  
+    Corporate Services 
+   
+  
+  Copyright TopCoder, Inc. 2001-
+pa------------------------------------------van 

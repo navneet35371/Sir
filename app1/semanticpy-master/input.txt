@@ -1,0 +1,3 @@
+http://www.diveintopython.net/html_processing/extracting_data.html
+http://www.oualline.com/vim-cook.html
+http://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis
